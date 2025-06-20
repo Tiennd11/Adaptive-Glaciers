@@ -1,0 +1,4670 @@
+Stokes flow in FEniCS.
+Running on 8 processors.
+----------------------------------------------------------------
+
+Time step 1: 0 hours
+Convergence after 26 Picard iterations.
+
+Time step 2: 0.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 3: 1 hours
+Convergence after 3 Picard iterations.
+
+Time step 4: 1.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 5: 2 hours
+Convergence after 3 Picard iterations.
+
+Time step 6: 2.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 7: 3 hours
+Convergence after 3 Picard iterations.
+
+Time step 8: 3.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 9: 4 hours
+Convergence after 3 Picard iterations.
+
+Time step 10: 4.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 11: 5 hours
+Convergence after 3 Picard iterations.
+
+Time step 12: 5.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 13: 6 hours
+Convergence after 3 Picard iterations.
+
+Time step 14: 6.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 15: 7 hours
+Convergence after 3 Picard iterations.
+
+Time step 16: 7.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 17: 8 hours
+Convergence after 3 Picard iterations.
+
+Time step 18: 8.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 19: 9 hours
+Convergence after 3 Picard iterations.
+
+Time step 20: 9.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 21: 10 hours
+Convergence after 3 Picard iterations.
+
+Time step 22: 10.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 23: 11 hours
+Convergence after 3 Picard iterations.
+
+Time step 24: 11.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 25: 12 hours
+Convergence after 3 Picard iterations.
+
+Time step 26: 12.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 27: 13 hours
+Convergence after 3 Picard iterations.
+
+Time step 28: 13.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 29: 14 hours
+Convergence after 3 Picard iterations.
+
+Time step 30: 14.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 31: 15 hours
+Convergence after 3 Picard iterations.
+
+Time step 32: 15.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 33: 16 hours
+Convergence after 3 Picard iterations.
+
+Time step 34: 16.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 35: 17 hours
+Convergence after 3 Picard iterations.
+
+Time step 36: 17.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 37: 18 hours
+Convergence after 3 Picard iterations.
+
+Time step 38: 18.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 39: 19 hours
+Convergence after 3 Picard iterations.
+
+Time step 40: 19.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 41: 20 hours
+Convergence after 3 Picard iterations.
+
+Time step 42: 20.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 43: 21 hours
+Convergence after 3 Picard iterations.
+
+Time step 44: 21.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 45: 22 hours
+Convergence after 3 Picard iterations.
+
+Time step 46: 22.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 47: 23 hours
+Convergence after 3 Picard iterations.
+
+Time step 48: 23.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 49: 24 hours
+Convergence after 3 Picard iterations.
+
+Time step 50: 24.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 51: 25 hours
+Convergence after 3 Picard iterations.
+
+Time step 52: 25.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 53: 26 hours
+Convergence after 3 Picard iterations.
+
+Time step 54: 26.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 55: 27 hours
+Convergence after 3 Picard iterations.
+
+Time step 56: 27.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 57: 28 hours
+Convergence after 3 Picard iterations.
+
+Time step 58: 28.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 59: 29 hours
+Convergence after 3 Picard iterations.
+
+Time step 60: 29.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 61: 30 hours
+Convergence after 3 Picard iterations.
+
+Time step 62: 30.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 63: 31 hours
+Convergence after 3 Picard iterations.
+
+Time step 64: 31.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 65: 32 hours
+Convergence after 3 Picard iterations.
+
+Time step 66: 32.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 67: 33 hours
+Convergence after 3 Picard iterations.
+
+Time step 68: 33.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 69: 34 hours
+Convergence after 3 Picard iterations.
+
+Time step 70: 34.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 71: 35 hours
+Convergence after 3 Picard iterations.
+
+Time step 72: 35.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 73: 36 hours
+Convergence after 3 Picard iterations.
+
+Time step 74: 36.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 75: 37 hours
+Convergence after 3 Picard iterations.
+
+Time step 76: 37.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 77: 38 hours
+Convergence after 3 Picard iterations.
+
+Time step 78: 38.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 79: 39 hours
+Convergence after 4 Picard iterations.
+
+Time step 80: 39.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 81: 40 hours
+Convergence after 3 Picard iterations.
+
+Time step 82: 40.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 83: 41 hours
+Convergence after 4 Picard iterations.
+
+Time step 84: 41.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 85: 42 hours
+Convergence after 3 Picard iterations.
+
+Time step 86: 42.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 87: 43 hours
+Convergence after 4 Picard iterations.
+
+Time step 88: 43.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 89: 44 hours
+Convergence after 3 Picard iterations.
+
+Time step 90: 44.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 91: 45 hours
+Convergence after 4 Picard iterations.
+
+Time step 92: 45.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 93: 46 hours
+Convergence after 3 Picard iterations.
+
+Time step 94: 46.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 95: 47 hours
+Convergence after 3 Picard iterations.
+
+Time step 96: 47.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 97: 48 hours
+Convergence after 4 Picard iterations.
+
+Time step 98: 48.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 99: 49 hours
+Convergence after 3 Picard iterations.
+
+Time step 100: 49.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 101: 50 hours
+Convergence after 3 Picard iterations.
+
+Time step 102: 50.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 103: 51 hours
+Convergence after 4 Picard iterations.
+
+Time step 104: 51.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 105: 52 hours
+Convergence after 3 Picard iterations.
+
+Time step 106: 52.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 107: 53 hours
+Convergence after 3 Picard iterations.
+
+Time step 108: 53.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 109: 54 hours
+Convergence after 4 Picard iterations.
+
+Time step 110: 54.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 111: 55 hours
+Convergence after 3 Picard iterations.
+
+Time step 112: 55.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 113: 56 hours
+Convergence after 3 Picard iterations.
+
+Time step 114: 56.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 115: 57 hours
+Convergence after 4 Picard iterations.
+
+Time step 116: 57.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 117: 58 hours
+Convergence after 3 Picard iterations.
+
+Time step 118: 58.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 119: 59 hours
+Convergence after 3 Picard iterations.
+
+Time step 120: 59.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 121: 60 hours
+Convergence after 4 Picard iterations.
+
+Time step 122: 60.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 123: 61 hours
+Convergence after 3 Picard iterations.
+
+Time step 124: 61.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 125: 62 hours
+Convergence after 3 Picard iterations.
+
+Time step 126: 62.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 127: 63 hours
+Convergence after 4 Picard iterations.
+
+Time step 128: 63.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 129: 64 hours
+Convergence after 3 Picard iterations.
+
+Time step 130: 64.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 131: 65 hours
+Convergence after 3 Picard iterations.
+
+Time step 132: 65.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 133: 66 hours
+Convergence after 4 Picard iterations.
+
+Time step 134: 66.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 135: 67 hours
+Convergence after 3 Picard iterations.
+
+Time step 136: 67.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 137: 68 hours
+Convergence after 3 Picard iterations.
+
+Time step 138: 68.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 139: 69 hours
+Convergence after 4 Picard iterations.
+
+Time step 140: 69.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 141: 70 hours
+Convergence after 4 Picard iterations.
+
+Time step 142: 70.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 143: 71 hours
+Convergence after 4 Picard iterations.
+
+Time step 144: 71.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 145: 72 hours
+Convergence after 4 Picard iterations.
+
+Time step 146: 72.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 147: 73 hours
+Convergence after 4 Picard iterations.
+
+Time step 148: 73.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 149: 74 hours
+Convergence after 4 Picard iterations.
+
+Time step 150: 74.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 151: 75 hours
+Convergence after 4 Picard iterations.
+
+Time step 152: 75.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 153: 76 hours
+Convergence after 4 Picard iterations.
+
+Time step 154: 76.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 155: 77 hours
+Convergence after 4 Picard iterations.
+
+Time step 156: 77.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 157: 78 hours
+Convergence after 4 Picard iterations.
+
+Time step 158: 78.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 159: 79 hours
+Convergence after 4 Picard iterations.
+
+Time step 160: 79.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 161: 80 hours
+Convergence after 4 Picard iterations.
+
+Time step 162: 80.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 163: 81 hours
+Convergence after 4 Picard iterations.
+
+Time step 164: 81.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 165: 82 hours
+Convergence after 4 Picard iterations.
+
+Time step 166: 82.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 167: 83 hours
+Convergence after 4 Picard iterations.
+
+Time step 168: 83.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 169: 84 hours
+Convergence after 4 Picard iterations.
+
+Time step 170: 84.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 171: 85 hours
+Convergence after 4 Picard iterations.
+
+Time step 172: 85.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 173: 86 hours
+Convergence after 4 Picard iterations.
+
+Time step 174: 86.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 175: 87 hours
+Convergence after 4 Picard iterations.
+
+Time step 176: 87.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 177: 88 hours
+Convergence after 4 Picard iterations.
+
+Time step 178: 88.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 179: 89 hours
+Convergence after 4 Picard iterations.
+
+Time step 180: 89.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 181: 90 hours
+Convergence after 4 Picard iterations.
+
+Time step 182: 90.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 183: 91 hours
+Convergence after 4 Picard iterations.
+
+Time step 184: 91.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 185: 92 hours
+Convergence after 4 Picard iterations.
+
+Time step 186: 92.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 187: 93 hours
+Convergence after 4 Picard iterations.
+
+Time step 188: 93.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 189: 94 hours
+Convergence after 4 Picard iterations.
+
+Time step 190: 94.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 191: 95 hours
+Convergence after 4 Picard iterations.
+
+Time step 192: 95.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 193: 96 hours
+Convergence after 4 Picard iterations.
+
+Time step 194: 96.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 195: 97 hours
+Convergence after 4 Picard iterations.
+
+Time step 196: 97.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 197: 98 hours
+Convergence after 4 Picard iterations.
+
+Time step 198: 98.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 199: 99 hours
+Convergence after 4 Picard iterations.
+
+Time step 200: 99.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 201: 100 hours
+Convergence after 4 Picard iterations.
+
+Time step 202: 100.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 203: 101 hours
+Convergence after 4 Picard iterations.
+
+Time step 204: 101.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 205: 102 hours
+Convergence after 4 Picard iterations.
+
+Time step 206: 102.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 207: 103 hours
+Convergence after 4 Picard iterations.
+
+Time step 208: 103.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 209: 104 hours
+Convergence after 4 Picard iterations.
+
+Time step 210: 104.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 211: 105 hours
+Convergence after 4 Picard iterations.
+
+Time step 212: 105.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 213: 106 hours
+Convergence after 4 Picard iterations.
+
+Time step 214: 106.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 215: 107 hours
+Convergence after 4 Picard iterations.
+
+Time step 216: 107.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 217: 108 hours
+Convergence after 4 Picard iterations.
+
+Time step 218: 108.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 219: 109 hours
+Convergence after 4 Picard iterations.
+
+Time step 220: 109.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 221: 110 hours
+Convergence after 4 Picard iterations.
+
+Time step 222: 110.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 223: 111 hours
+Convergence after 4 Picard iterations.
+
+Time step 224: 111.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 225: 112 hours
+Convergence after 4 Picard iterations.
+
+Time step 226: 112.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 227: 113 hours
+Convergence after 4 Picard iterations.
+
+Time step 228: 113.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 229: 114 hours
+Convergence after 4 Picard iterations.
+
+Time step 230: 114.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 231: 115 hours
+Convergence after 4 Picard iterations.
+
+Time step 232: 115.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 233: 116 hours
+Convergence after 4 Picard iterations.
+
+Time step 234: 116.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 235: 117 hours
+Convergence after 4 Picard iterations.
+
+Time step 236: 117.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 237: 118 hours
+Convergence after 4 Picard iterations.
+
+Time step 238: 118.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 239: 119 hours
+Convergence after 4 Picard iterations.
+
+Time step 240: 119.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 241: 120 hours
+Convergence after 4 Picard iterations.
+
+Time step 242: 120.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 243: 121 hours
+Convergence after 4 Picard iterations.
+
+Time step 244: 121.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 245: 122 hours
+Convergence after 4 Picard iterations.
+
+Time step 246: 122.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 247: 123 hours
+Convergence after 4 Picard iterations.
+
+Time step 248: 123.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 249: 124 hours
+Convergence after 4 Picard iterations.
+
+Time step 250: 124.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 251: 125 hours
+Convergence after 4 Picard iterations.
+
+Time step 252: 125.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 253: 126 hours
+Convergence after 3 Picard iterations.
+
+Time step 254: 126.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 255: 127 hours
+Convergence after 4 Picard iterations.
+
+Time step 256: 127.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 257: 128 hours
+Convergence after 4 Picard iterations.
+
+Time step 258: 128.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 259: 129 hours
+Convergence after 3 Picard iterations.
+
+Time step 260: 129.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 261: 130 hours
+Convergence after 4 Picard iterations.
+
+Time step 262: 130.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 263: 131 hours
+Convergence after 4 Picard iterations.
+
+Time step 264: 131.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 265: 132 hours
+Convergence after 4 Picard iterations.
+
+Time step 266: 132.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 267: 133 hours
+Convergence after 4 Picard iterations.
+
+Time step 268: 133.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 269: 134 hours
+Convergence after 4 Picard iterations.
+
+Time step 270: 134.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 271: 135 hours
+Convergence after 4 Picard iterations.
+
+Time step 272: 135.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 273: 136 hours
+Convergence after 4 Picard iterations.
+
+Time step 274: 136.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 275: 137 hours
+Convergence after 4 Picard iterations.
+
+Time step 276: 137.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 277: 138 hours
+Convergence after 4 Picard iterations.
+
+Time step 278: 138.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 279: 139 hours
+Convergence after 4 Picard iterations.
+
+Time step 280: 139.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 281: 140 hours
+Convergence after 4 Picard iterations.
+
+Time step 282: 140.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 283: 141 hours
+Convergence after 4 Picard iterations.
+
+Time step 284: 141.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 285: 142 hours
+Convergence after 4 Picard iterations.
+
+Time step 286: 142.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 287: 143 hours
+Convergence after 4 Picard iterations.
+
+Time step 288: 143.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 289: 144 hours
+Convergence after 4 Picard iterations.
+
+Time step 290: 144.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 291: 145 hours
+Convergence after 4 Picard iterations.
+
+Time step 292: 145.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 293: 146 hours
+Convergence after 4 Picard iterations.
+
+Time step 294: 146.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 295: 147 hours
+Convergence after 4 Picard iterations.
+
+Time step 296: 147.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 297: 148 hours
+Convergence after 4 Picard iterations.
+
+Time step 298: 148.5 hours
+Convergence after 4 Picard iterations.
+
+Time step 299: 149 hours
+Convergence after 5 Picard iterations.
+
+Time step 300: 149.5 hours
+Convergence after 5 Picard iterations.
+
+Time step 301: 150 hours
+Convergence after 5 Picard iterations.
+
+Time step 302: 150.5 hours
+Convergence after 5 Picard iterations.
+
+Time step 303: 151 hours
+Convergence after 5 Picard iterations.
+
+Time step 304: 151.5 hours
+Convergence after 5 Picard iterations.
+
+Time step 305: 152 hours
+Convergence after 5 Picard iterations.
+
+Time step 306: 152.5 hours
+Convergence after 5 Picard iterations.
+
+Time step 307: 153 hours
+Convergence after 5 Picard iterations.
+
+Time step 308: 153.5 hours
+Convergence after 5 Picard iterations.
+
+Time step 309: 154 hours
+Convergence after 5 Picard iterations.
+
+Time step 310: 154.5 hours
+Convergence after 5 Picard iterations.
+
+Time step 311: 155 hours
+Convergence after 5 Picard iterations.
+
+Time step 312: 155.5 hours
+Convergence after 12 Picard iterations.
+
+Time step 313: 155.81 hours
+Convergence after 11 Picard iterations.
+
+Time step 314: 155.937 hours
+Convergence after 13 Picard iterations.
+
+Time step 315: 156.113 hours
+Convergence after 10 Picard iterations.
+
+Time step 316: 156.245 hours
+Convergence after 12 Picard iterations.
+
+Time step 317: 156.325 hours
+Convergence after 10 Picard iterations.
+
+Time step 318: 156.385 hours
+Convergence after 3 Picard iterations.
+
+Time step 319: 156.443 hours
+Convergence after 11 Picard iterations.
+
+Time step 320: 156.55 hours
+Convergence after 13 Picard iterations.
+
+Time step 321: 156.661 hours
+Convergence after 4 Picard iterations.
+
+Time step 322: 156.768 hours
+Convergence after 12 Picard iterations.
+
+Time step 323: 156.882 hours
+Convergence after 9 Picard iterations.
+
+Time step 324: 157.069 hours
+Convergence after 13 Picard iterations.
+
+Time step 325: 157.248 hours
+Convergence after 4 Picard iterations.
+
+Time step 326: 157.42 hours
+Convergence after 13 Picard iterations.
+
+Time step 327: 157.513 hours
+Convergence after 8 Picard iterations.
+
+Time step 328: 157.602 hours
+Convergence after 4 Picard iterations.
+
+Time step 329: 157.687 hours
+Convergence after 11 Picard iterations.
+
+Time step 330: 157.929 hours
+Convergence after 10 Picard iterations.
+
+Time step 331: 158.168 hours
+Convergence after 12 Picard iterations.
+
+Time step 332: 158.242 hours
+Convergence after 12 Picard iterations.
+
+Time step 333: 158.381 hours
+Convergence after 4 Picard iterations.
+
+Time step 334: 158.513 hours
+Convergence after 11 Picard iterations.
+
+Time step 335: 158.606 hours
+Convergence after 11 Picard iterations.
+
+Time step 336: 158.732 hours
+Convergence after 10 Picard iterations.
+
+Time step 337: 158.874 hours
+Convergence after 13 Picard iterations.
+
+Time step 338: 159.009 hours
+Convergence after 14 Picard iterations.
+
+Time step 339: 159.067 hours
+Convergence after 10 Picard iterations.
+
+Time step 340: 159.114 hours
+Convergence after 9 Picard iterations.
+
+Time step 341: 159.2 hours
+Convergence after 4 Picard iterations.
+
+Time step 342: 159.284 hours
+Convergence after 4 Picard iterations.
+
+Time step 343: 159.365 hours
+Convergence after 9 Picard iterations.
+
+Time step 344: 159.389 hours
+Convergence after 3 Picard iterations.
+
+Time step 345: 159.412 hours
+Convergence after 3 Picard iterations.
+
+Time step 346: 159.436 hours
+Convergence after 9 Picard iterations.
+
+Time step 347: 159.489 hours
+Convergence after 10 Picard iterations.
+
+Time step 348: 159.544 hours
+Convergence after 11 Picard iterations.
+
+Time step 349: 159.626 hours
+Convergence after 4 Picard iterations.
+
+Time step 350: 159.707 hours
+Convergence after 4 Picard iterations.
+
+Time step 351: 159.786 hours
+Convergence after 10 Picard iterations.
+
+Time step 352: 159.875 hours
+Convergence after 3 Picard iterations.
+
+Time step 353: 159.962 hours
+Convergence after 10 Picard iterations.
+
+Time step 354: 160.172 hours
+Convergence after 11 Picard iterations.
+
+Time step 355: 160.326 hours
+Convergence after 12 Picard iterations.
+
+Time step 356: 160.477 hours
+Convergence after 4 Picard iterations.
+
+Time step 357: 160.622 hours
+Convergence after 11 Picard iterations.
+
+Time step 358: 160.759 hours
+Convergence after 4 Picard iterations.
+
+Time step 359: 160.89 hours
+Convergence after 4 Picard iterations.
+
+Time step 360: 161.015 hours
+Convergence after 10 Picard iterations.
+
+Time step 361: 161.13 hours
+Convergence after 4 Picard iterations.
+
+Time step 362: 161.241 hours
+Convergence after 11 Picard iterations.
+
+Time step 363: 161.416 hours
+Convergence after 8 Picard iterations.
+
+Time step 364: 161.599 hours
+Convergence after 4 Picard iterations.
+
+Time step 365: 161.774 hours
+Convergence after 9 Picard iterations.
+
+Time step 366: 161.936 hours
+Convergence after 11 Picard iterations.
+
+Time step 367: 162.194 hours
+Convergence after 13 Picard iterations.
+
+Time step 368: 162.288 hours
+Convergence after 13 Picard iterations.
+
+Time step 369: 162.377 hours
+Convergence after 11 Picard iterations.
+
+Time step 370: 162.462 hours
+Convergence after 3 Picard iterations.
+
+Time step 371: 162.544 hours
+Convergence after 3 Picard iterations.
+
+Time step 372: 162.623 hours
+Convergence after 10 Picard iterations.
+
+Time step 373: 162.844 hours
+Convergence after 10 Picard iterations.
+
+Time step 374: 163.08 hours
+Convergence after 10 Picard iterations.
+
+Time step 375: 163.113 hours
+Convergence after 3 Picard iterations.
+
+Time step 376: 163.144 hours
+Convergence after 13 Picard iterations.
+
+Time step 377: 163.272 hours
+Convergence after 4 Picard iterations.
+
+Time step 378: 163.395 hours
+Convergence after 11 Picard iterations.
+
+Time step 379: 163.476 hours
+Convergence after 11 Picard iterations.
+
+Time step 380: 163.557 hours
+Convergence after 3 Picard iterations.
+
+Time step 381: 163.635 hours
+Convergence after 3 Picard iterations.
+
+Time step 382: 163.71 hours
+Convergence after 3 Picard iterations.
+
+Time step 383: 163.784 hours
+Convergence after 10 Picard iterations.
+
+Time step 384: 163.894 hours
+Convergence after 11 Picard iterations.
+
+Time step 385: 163.998 hours
+Convergence after 10 Picard iterations.
+
+Time step 386: 164.114 hours
+Convergence after 10 Picard iterations.
+
+Time step 387: 164.29 hours
+Convergence after 9 Picard iterations.
+
+Time step 388: 164.331 hours
+Convergence after 3 Picard iterations.
+
+Time step 389: 164.37 hours
+Convergence after 3 Picard iterations.
+
+Time step 390: 164.407 hours
+Convergence after 8 Picard iterations.
+
+Time step 391: 164.478 hours
+Convergence after 3 Picard iterations.
+
+Time step 392: 164.546 hours
+Convergence after 3 Picard iterations.
+
+Time step 393: 164.611 hours
+Convergence after 8 Picard iterations.
+
+Time step 394: 164.631 hours
+Convergence after 3 Picard iterations.
+
+Time step 395: 164.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 396: 164.67 hours
+Convergence after 8 Picard iterations.
+
+Time step 397: 164.715 hours
+Convergence after 3 Picard iterations.
+
+Time step 398: 164.759 hours
+Convergence after 3 Picard iterations.
+
+Time step 399: 164.802 hours
+Convergence after 11 Picard iterations.
+
+Time step 400: 164.85 hours
+Convergence after 8 Picard iterations.
+
+Time step 401: 164.909 hours
+Convergence after 9 Picard iterations.
+
+Time step 402: 164.975 hours
+Convergence after 11 Picard iterations.
+
+Time step 403: 165.039 hours
+Convergence after 9 Picard iterations.
+
+Time step 404: 165.111 hours
+Convergence after 10 Picard iterations.
+
+Time step 405: 165.26 hours
+Convergence after 3 Picard iterations.
+
+Time step 406: 165.404 hours
+Convergence after 10 Picard iterations.
+
+Time step 407: 165.57 hours
+Convergence after 3 Picard iterations.
+
+Time step 408: 165.729 hours
+Convergence after 9 Picard iterations.
+
+Time step 409: 165.88 hours
+Convergence after 3 Picard iterations.
+
+Time step 410: 166.024 hours
+Convergence after 3 Picard iterations.
+
+Time step 411: 166.161 hours
+Convergence after 11 Picard iterations.
+
+Time step 412: 166.296 hours
+Convergence after 3 Picard iterations.
+
+Time step 413: 166.425 hours
+Convergence after 3 Picard iterations.
+
+Time step 414: 166.548 hours
+Convergence after 10 Picard iterations.
+
+Time step 415: 166.66 hours
+Convergence after 3 Picard iterations.
+
+Time step 416: 166.767 hours
+Convergence after 11 Picard iterations.
+
+Time step 417: 166.869 hours
+Convergence after 10 Picard iterations.
+
+Time step 418: 167.032 hours
+Convergence after 8 Picard iterations.
+
+Time step 419: 167.205 hours
+Convergence after 4 Picard iterations.
+
+Time step 420: 167.371 hours
+Convergence after 13 Picard iterations.
+
+Time step 421: 167.53 hours
+Convergence after 13 Picard iterations.
+
+Time step 422: 167.777 hours
+Convergence after 12 Picard iterations.
+
+Time step 423: 167.875 hours
+Convergence after 3 Picard iterations.
+
+Time step 424: 167.969 hours
+Convergence after 3 Picard iterations.
+
+Time step 425: 168.058 hours
+Convergence after 3 Picard iterations.
+
+Time step 426: 168.143 hours
+Convergence after 3 Picard iterations.
+
+Time step 427: 168.225 hours
+Convergence after 12 Picard iterations.
+
+Time step 428: 168.304 hours
+Convergence after 3 Picard iterations.
+
+Time step 429: 168.38 hours
+Convergence after 10 Picard iterations.
+
+Time step 430: 168.596 hours
+Convergence after 11 Picard iterations.
+
+Time step 431: 168.834 hours
+Convergence after 10 Picard iterations.
+
+Time step 432: 168.868 hours
+Convergence after 2 Picard iterations.
+
+Time step 433: 168.901 hours
+Convergence after 12 Picard iterations.
+
+Time step 434: 168.973 hours
+Convergence after 12 Picard iterations.
+
+Time step 435: 169.099 hours
+Convergence after 13 Picard iterations.
+
+Time step 436: 169.222 hours
+Convergence after 11 Picard iterations.
+
+Time step 437: 169.301 hours
+Convergence after 3 Picard iterations.
+
+Time step 438: 169.377 hours
+Convergence after 3 Picard iterations.
+
+Time step 439: 169.451 hours
+Convergence after 3 Picard iterations.
+
+Time step 440: 169.522 hours
+Convergence after 3 Picard iterations.
+
+Time step 441: 169.592 hours
+Convergence after 3 Picard iterations.
+
+Time step 442: 169.659 hours
+Convergence after 10 Picard iterations.
+
+Time step 443: 169.762 hours
+Convergence after 3 Picard iterations.
+
+Time step 444: 169.862 hours
+Convergence after 11 Picard iterations.
+
+Time step 445: 169.958 hours
+Convergence after 3 Picard iterations.
+
+Time step 446: 170.05 hours
+Convergence after 13 Picard iterations.
+
+Time step 447: 170.103 hours
+Convergence after 10 Picard iterations.
+
+Time step 448: 170.142 hours
+Convergence after 3 Picard iterations.
+
+Time step 449: 170.181 hours
+Convergence after 3 Picard iterations.
+
+Time step 450: 170.218 hours
+Convergence after 3 Picard iterations.
+
+Time step 451: 170.253 hours
+Convergence after 3 Picard iterations.
+
+Time step 452: 170.288 hours
+Convergence after 12 Picard iterations.
+
+Time step 453: 170.321 hours
+Convergence after 8 Picard iterations.
+
+Time step 454: 170.386 hours
+Convergence after 3 Picard iterations.
+
+Time step 455: 170.448 hours
+Convergence after 8 Picard iterations.
+
+Time step 456: 170.467 hours
+Convergence after 2 Picard iterations.
+
+Time step 457: 170.485 hours
+Convergence after 2 Picard iterations.
+
+Time step 458: 170.503 hours
+Convergence after 8 Picard iterations.
+
+Time step 459: 170.548 hours
+Convergence after 3 Picard iterations.
+
+Time step 460: 170.591 hours
+Convergence after 3 Picard iterations.
+
+Time step 461: 170.633 hours
+Convergence after 3 Picard iterations.
+
+Time step 462: 170.674 hours
+Convergence after 3 Picard iterations.
+
+Time step 463: 170.715 hours
+Convergence after 3 Picard iterations.
+
+Time step 464: 170.754 hours
+Convergence after 8 Picard iterations.
+
+Time step 465: 170.809 hours
+Convergence after 12 Picard iterations.
+
+Time step 466: 170.862 hours
+Convergence after 9 Picard iterations.
+
+Time step 467: 170.939 hours
+Convergence after 3 Picard iterations.
+
+Time step 468: 171.013 hours
+Convergence after 10 Picard iterations.
+
+Time step 469: 171.166 hours
+Convergence after 3 Picard iterations.
+
+Time step 470: 171.316 hours
+Convergence after 10 Picard iterations.
+
+Time step 471: 171.467 hours
+Convergence after 8 Picard iterations.
+
+Time step 472: 171.635 hours
+Convergence after 7 Picard iterations.
+
+Time step 473: 171.811 hours
+Convergence after 3 Picard iterations.
+
+Time step 474: 171.979 hours
+Convergence after 12 Picard iterations.
+
+Time step 475: 172.139 hours
+Convergence after 3 Picard iterations.
+
+Time step 476: 172.292 hours
+Convergence after 12 Picard iterations.
+
+Time step 477: 172.437 hours
+Convergence after 12 Picard iterations.
+
+Time step 478: 172.575 hours
+Convergence after 11 Picard iterations.
+
+Time step 479: 172.71 hours
+Convergence after 3 Picard iterations.
+
+Time step 480: 172.839 hours
+Convergence after 9 Picard iterations.
+
+Time step 481: 172.958 hours
+Convergence after 3 Picard iterations.
+
+Time step 482: 173.07 hours
+Convergence after 4 Picard iterations.
+
+Time step 483: 173.178 hours
+Convergence after 10 Picard iterations.
+
+Time step 484: 173.353 hours
+Convergence after 4 Picard iterations.
+
+Time step 485: 173.52 hours
+Convergence after 4 Picard iterations.
+
+Time step 486: 173.679 hours
+Convergence after 9 Picard iterations.
+
+Time step 487: 173.848 hours
+Convergence after 4 Picard iterations.
+
+Time step 488: 174.01 hours
+Convergence after 11 Picard iterations.
+
+Time step 489: 174.037 hours
+Convergence after 2 Picard iterations.
+
+Time step 490: 174.064 hours
+Convergence after 11 Picard iterations.
+
+Time step 491: 174.178 hours
+Convergence after 12 Picard iterations.
+
+Time step 492: 174.287 hours
+Convergence after 3 Picard iterations.
+
+Time step 493: 174.391 hours
+Convergence after 3 Picard iterations.
+
+Time step 494: 174.491 hours
+Convergence after 3 Picard iterations.
+
+Time step 495: 174.586 hours
+Convergence after 3 Picard iterations.
+
+Time step 496: 174.676 hours
+Convergence after 3 Picard iterations.
+
+Time step 497: 174.763 hours
+Convergence after 3 Picard iterations.
+
+Time step 498: 174.846 hours
+Convergence after 13 Picard iterations.
+
+Time step 499: 174.925 hours
+Convergence after 9 Picard iterations.
+
+Time step 500: 175.18 hours
+Convergence after 11 Picard iterations.
+
+Time step 501: 175.426 hours
+Convergence after 10 Picard iterations.
+
+Time step 502: 175.464 hours
+Convergence after 2 Picard iterations.
+
+Time step 503: 175.501 hours
+Convergence after 12 Picard iterations.
+
+Time step 504: 175.58 hours
+Convergence after 3 Picard iterations.
+
+Time step 505: 175.657 hours
+Convergence after 12 Picard iterations.
+
+Time step 506: 175.793 hours
+Convergence after 4 Picard iterations.
+
+Time step 507: 175.924 hours
+Convergence after 10 Picard iterations.
+
+Time step 508: 176.049 hours
+Convergence after 11 Picard iterations.
+
+Time step 509: 176.129 hours
+Convergence after 10 Picard iterations.
+
+Time step 510: 176.206 hours
+Convergence after 3 Picard iterations.
+
+Time step 511: 176.282 hours
+Convergence after 3 Picard iterations.
+
+Time step 512: 176.355 hours
+Convergence after 4 Picard iterations.
+
+Time step 513: 176.426 hours
+Convergence after 3 Picard iterations.
+
+Time step 514: 176.495 hours
+Convergence after 9 Picard iterations.
+
+Time step 515: 176.598 hours
+Convergence after 4 Picard iterations.
+
+Time step 516: 176.698 hours
+Convergence after 4 Picard iterations.
+
+Time step 517: 176.795 hours
+Convergence after 4 Picard iterations.
+
+Time step 518: 176.889 hours
+Convergence after 10 Picard iterations.
+
+Time step 519: 176.988 hours
+Convergence after 12 Picard iterations.
+
+Time step 520: 177.043 hours
+Convergence after 10 Picard iterations.
+
+Time step 521: 177.086 hours
+Convergence after 3 Picard iterations.
+
+Time step 522: 177.126 hours
+Convergence after 3 Picard iterations.
+
+Time step 523: 177.166 hours
+Convergence after 3 Picard iterations.
+
+Time step 524: 177.204 hours
+Convergence after 3 Picard iterations.
+
+Time step 525: 177.241 hours
+Convergence after 3 Picard iterations.
+
+Time step 526: 177.276 hours
+Convergence after 7 Picard iterations.
+
+Time step 527: 177.347 hours
+Convergence after 3 Picard iterations.
+
+Time step 528: 177.415 hours
+Convergence after 9 Picard iterations.
+
+Time step 529: 177.436 hours
+Convergence after 2 Picard iterations.
+
+Time step 530: 177.456 hours
+Convergence after 3 Picard iterations.
+
+Time step 531: 177.475 hours
+Convergence after 2 Picard iterations.
+
+Time step 532: 177.495 hours
+Convergence after 3 Picard iterations.
+
+Time step 533: 177.514 hours
+Convergence after 8 Picard iterations.
+
+Time step 534: 177.561 hours
+Convergence after 3 Picard iterations.
+
+Time step 535: 177.608 hours
+Convergence after 3 Picard iterations.
+
+Time step 536: 177.653 hours
+Convergence after 3 Picard iterations.
+
+Time step 537: 177.698 hours
+Convergence after 3 Picard iterations.
+
+Time step 538: 177.741 hours
+Convergence after 3 Picard iterations.
+
+Time step 539: 177.784 hours
+Convergence after 3 Picard iterations.
+
+Time step 540: 177.826 hours
+Convergence after 3 Picard iterations.
+
+Time step 541: 177.867 hours
+Convergence after 8 Picard iterations.
+
+Time step 542: 177.921 hours
+Convergence after 3 Picard iterations.
+
+Time step 543: 177.975 hours
+Convergence after 11 Picard iterations.
+
+Time step 544: 178.072 hours
+Convergence after 9 Picard iterations.
+
+Time step 545: 178.251 hours
+Convergence after 3 Picard iterations.
+
+Time step 546: 178.425 hours
+Convergence after 3 Picard iterations.
+
+Time step 547: 178.594 hours
+Convergence after 10 Picard iterations.
+
+Time step 548: 178.767 hours
+Convergence after 8 Picard iterations.
+
+Time step 549: 179.003 hours
+Convergence after 12 Picard iterations.
+
+Time step 550: 179.226 hours
+Convergence after 8 Picard iterations.
+
+Time step 551: 179.438 hours
+Convergence after 4 Picard iterations.
+
+Time step 552: 179.639 hours
+Convergence after 12 Picard iterations.
+
+Time step 553: 179.831 hours
+Convergence after 4 Picard iterations.
+
+Time step 554: 180.013 hours
+Convergence after 4 Picard iterations.
+
+Time step 555: 180.187 hours
+Convergence after 11 Picard iterations.
+
+Time step 556: 180.357 hours
+Convergence after 4 Picard iterations.
+
+Time step 557: 180.52 hours
+Convergence after 4 Picard iterations.
+
+Time step 558: 180.675 hours
+Convergence after 4 Picard iterations.
+
+Time step 559: 180.824 hours
+Convergence after 12 Picard iterations.
+
+Time step 560: 180.959 hours
+Convergence after 4 Picard iterations.
+
+Time step 561: 181.088 hours
+Convergence after 4 Picard iterations.
+
+Time step 562: 181.212 hours
+Convergence after 9 Picard iterations.
+
+Time step 563: 181.412 hours
+Convergence after 4 Picard iterations.
+
+Time step 564: 181.603 hours
+Convergence after 4 Picard iterations.
+
+Time step 565: 181.786 hours
+Convergence after 4 Picard iterations.
+
+Time step 566: 181.962 hours
+Convergence after 12 Picard iterations.
+
+Time step 567: 182.148 hours
+Convergence after 12 Picard iterations.
+
+Time step 568: 182.326 hours
+Convergence after 11 Picard iterations.
+
+Time step 569: 182.357 hours
+Convergence after 2 Picard iterations.
+
+Time step 570: 182.387 hours
+Convergence after 10 Picard iterations.
+
+Time step 571: 182.513 hours
+Convergence after 3 Picard iterations.
+
+Time step 572: 182.636 hours
+Convergence after 4 Picard iterations.
+
+Time step 573: 182.757 hours
+Convergence after 3 Picard iterations.
+
+Time step 574: 182.875 hours
+Convergence after 4 Picard iterations.
+
+Time step 575: 182.99 hours
+Convergence after 4 Picard iterations.
+
+Time step 576: 183.104 hours
+Convergence after 4 Picard iterations.
+
+Time step 577: 183.215 hours
+Convergence after 4 Picard iterations.
+
+Time step 578: 183.324 hours
+Convergence after 10 Picard iterations.
+
+Time step 579: 183.431 hours
+Convergence after 12 Picard iterations.
+
+Time step 580: 183.532 hours
+Convergence after 10 Picard iterations.
+
+Time step 581: 183.826 hours
+Convergence after 10 Picard iterations.
+
+Time step 582: 184.11 hours
+Convergence after 9 Picard iterations.
+
+Time step 583: 184.387 hours
+Convergence after 12 Picard iterations.
+
+Time step 584: 184.433 hours
+Convergence after 3 Picard iterations.
+
+Time step 585: 184.478 hours
+Convergence after 11 Picard iterations.
+
+Time step 586: 184.575 hours
+Convergence after 12 Picard iterations.
+
+Time step 587: 184.734 hours
+Convergence after 4 Picard iterations.
+
+Time step 588: 184.889 hours
+Convergence after 10 Picard iterations.
+
+Time step 589: 185.037 hours
+Convergence after 4 Picard iterations.
+
+Time step 590: 185.18 hours
+Convergence after 10 Picard iterations.
+
+Time step 591: 185.27 hours
+Convergence after 3 Picard iterations.
+
+Time step 592: 185.359 hours
+Convergence after 4 Picard iterations.
+
+Time step 593: 185.444 hours
+Convergence after 4 Picard iterations.
+
+Time step 594: 185.528 hours
+Convergence after 4 Picard iterations.
+
+Time step 595: 185.609 hours
+Convergence after 4 Picard iterations.
+
+Time step 596: 185.687 hours
+Convergence after 4 Picard iterations.
+
+Time step 597: 185.764 hours
+Convergence after 9 Picard iterations.
+
+Time step 598: 185.875 hours
+Convergence after 4 Picard iterations.
+
+Time step 599: 185.982 hours
+Convergence after 4 Picard iterations.
+
+Time step 600: 186.086 hours
+Convergence after 4 Picard iterations.
+
+Time step 601: 186.188 hours
+Convergence after 11 Picard iterations.
+
+Time step 602: 186.29 hours
+Convergence after 10 Picard iterations.
+
+Time step 603: 186.395 hours
+Convergence after 4 Picard iterations.
+
+Time step 604: 186.497 hours
+Convergence after 12 Picard iterations.
+
+Time step 605: 186.562 hours
+Convergence after 3 Picard iterations.
+
+Time step 606: 186.626 hours
+Convergence after 3 Picard iterations.
+
+Time step 607: 186.688 hours
+Convergence after 10 Picard iterations.
+
+Time step 608: 186.735 hours
+Convergence after 3 Picard iterations.
+
+Time step 609: 186.781 hours
+Convergence after 3 Picard iterations.
+
+Time step 610: 186.825 hours
+Convergence after 3 Picard iterations.
+
+Time step 611: 186.868 hours
+Convergence after 3 Picard iterations.
+
+Time step 612: 186.909 hours
+Convergence after 8 Picard iterations.
+
+Time step 613: 186.992 hours
+Convergence after 4 Picard iterations.
+
+Time step 614: 187.072 hours
+Convergence after 4 Picard iterations.
+
+Time step 615: 187.149 hours
+Convergence after 4 Picard iterations.
+
+Time step 616: 187.224 hours
+Convergence after 9 Picard iterations.
+
+Time step 617: 187.246 hours
+Convergence after 3 Picard iterations.
+
+Time step 618: 187.267 hours
+Convergence after 3 Picard iterations.
+
+Time step 619: 187.288 hours
+Convergence after 3 Picard iterations.
+
+Time step 620: 187.309 hours
+Convergence after 3 Picard iterations.
+
+Time step 621: 187.33 hours
+Convergence after 3 Picard iterations.
+
+Time step 622: 187.35 hours
+Convergence after 9 Picard iterations.
+
+Time step 623: 187.402 hours
+Convergence after 3 Picard iterations.
+
+Time step 624: 187.452 hours
+Convergence after 3 Picard iterations.
+
+Time step 625: 187.502 hours
+Convergence after 3 Picard iterations.
+
+Time step 626: 187.55 hours
+Convergence after 3 Picard iterations.
+
+Time step 627: 187.597 hours
+Convergence after 3 Picard iterations.
+
+Time step 628: 187.644 hours
+Convergence after 9 Picard iterations.
+
+Time step 629: 187.691 hours
+Convergence after 3 Picard iterations.
+
+Time step 630: 187.737 hours
+Convergence after 8 Picard iterations.
+
+Time step 631: 187.802 hours
+Convergence after 11 Picard iterations.
+
+Time step 632: 187.866 hours
+Convergence after 10 Picard iterations.
+
+Time step 633: 187.985 hours
+Convergence after 3 Picard iterations.
+
+Time step 634: 188.099 hours
+Convergence after 3 Picard iterations.
+
+Time step 635: 188.21 hours
+Convergence after 10 Picard iterations.
+
+Time step 636: 188.407 hours
+Convergence after 3 Picard iterations.
+
+Time step 637: 188.599 hours
+Convergence after 10 Picard iterations.
+
+Time step 638: 188.852 hours
+Convergence after 8 Picard iterations.
+
+Time step 639: 189.127 hours
+Convergence after 4 Picard iterations.
+
+Time step 640: 189.388 hours
+Convergence after 4 Picard iterations.
+
+Time step 641: 189.636 hours
+Convergence after 8 Picard iterations.
+
+Time step 642: 189.872 hours
+Convergence after 12 Picard iterations.
+
+Time step 643: 190.093 hours
+Convergence after 10 Picard iterations.
+
+Time step 644: 190.309 hours
+Convergence after 4 Picard iterations.
+
+Time step 645: 190.514 hours
+Convergence after 13 Picard iterations.
+
+Time step 646: 190.708 hours
+Convergence after 4 Picard iterations.
+
+Time step 647: 190.892 hours
+Convergence after 4 Picard iterations.
+
+Time step 648: 191.069 hours
+Convergence after 4 Picard iterations.
+
+Time step 649: 191.237 hours
+Convergence after 4 Picard iterations.
+
+Time step 650: 191.397 hours
+Convergence after 4 Picard iterations.
+
+Time step 651: 191.551 hours
+Convergence after 9 Picard iterations.
+
+Time step 652: 191.692 hours
+Convergence after 9 Picard iterations.
+
+Time step 653: 191.825 hours
+Convergence after 12 Picard iterations.
+
+Time step 654: 192.045 hours
+Convergence after 4 Picard iterations.
+
+Time step 655: 192.255 hours
+Convergence after 12 Picard iterations.
+
+Time step 656: 192.456 hours
+Convergence after 4 Picard iterations.
+
+Time step 657: 192.649 hours
+Convergence after 4 Picard iterations.
+
+Time step 658: 192.834 hours
+Convergence after 4 Picard iterations.
+
+Time step 659: 193.011 hours
+Convergence after 7 Picard iterations.
+
+Time step 660: 193.197 hours
+Convergence after 10 Picard iterations.
+
+Time step 661: 193.215 hours
+Convergence after 12 Picard iterations.
+
+Time step 662: 193.233 hours
+Convergence after 9 Picard iterations.
+
+Time step 663: 193.346 hours
+Convergence after 10 Picard iterations.
+
+Time step 664: 193.476 hours
+Convergence after 3 Picard iterations.
+
+Time step 665: 193.603 hours
+Convergence after 4 Picard iterations.
+
+Time step 666: 193.727 hours
+Convergence after 4 Picard iterations.
+
+Time step 667: 193.849 hours
+Convergence after 4 Picard iterations.
+
+Time step 668: 193.969 hours
+Convergence after 4 Picard iterations.
+
+Time step 669: 194.086 hours
+Convergence after 12 Picard iterations.
+
+Time step 670: 194.201 hours
+Convergence after 4 Picard iterations.
+
+Time step 671: 194.313 hours
+Convergence after 4 Picard iterations.
+
+Time step 672: 194.422 hours
+Convergence after 4 Picard iterations.
+
+Time step 673: 194.527 hours
+Convergence after 10 Picard iterations.
+
+Time step 674: 194.84 hours
+Convergence after 4 Picard iterations.
+
+Time step 675: 195.144 hours
+Convergence after 10 Picard iterations.
+
+Time step 676: 195.439 hours
+Convergence after 10 Picard iterations.
+
+Time step 677: 195.488 hours
+Convergence after 3 Picard iterations.
+
+Time step 678: 195.536 hours
+Convergence after 11 Picard iterations.
+
+Time step 679: 195.64 hours
+Convergence after 3 Picard iterations.
+
+Time step 680: 195.742 hours
+Convergence after 4 Picard iterations.
+
+Time step 681: 195.842 hours
+Convergence after 4 Picard iterations.
+
+Time step 682: 195.938 hours
+Convergence after 12 Picard iterations.
+
+Time step 683: 196.091 hours
+Convergence after 4 Picard iterations.
+
+Time step 684: 196.24 hours
+Convergence after 4 Picard iterations.
+
+Time step 685: 196.384 hours
+Convergence after 11 Picard iterations.
+
+Time step 686: 196.526 hours
+Convergence after 4 Picard iterations.
+
+Time step 687: 196.663 hours
+Convergence after 11 Picard iterations.
+
+Time step 688: 196.748 hours
+Convergence after 11 Picard iterations.
+
+Time step 689: 196.83 hours
+Convergence after 4 Picard iterations.
+
+Time step 690: 196.91 hours
+Convergence after 4 Picard iterations.
+
+Time step 691: 196.988 hours
+Convergence after 4 Picard iterations.
+
+Time step 692: 197.064 hours
+Convergence after 9 Picard iterations.
+
+Time step 693: 197.172 hours
+Convergence after 4 Picard iterations.
+
+Time step 694: 197.278 hours
+Convergence after 4 Picard iterations.
+
+Time step 695: 197.38 hours
+Convergence after 4 Picard iterations.
+
+Time step 696: 197.48 hours
+Convergence after 4 Picard iterations.
+
+Time step 697: 197.578 hours
+Convergence after 4 Picard iterations.
+
+Time step 698: 197.673 hours
+Convergence after 9 Picard iterations.
+
+Time step 699: 197.768 hours
+Convergence after 11 Picard iterations.
+
+Time step 700: 197.825 hours
+Convergence after 3 Picard iterations.
+
+Time step 701: 197.881 hours
+Convergence after 9 Picard iterations.
+
+Time step 702: 197.932 hours
+Convergence after 3 Picard iterations.
+
+Time step 703: 197.981 hours
+Convergence after 10 Picard iterations.
+
+Time step 704: 198.026 hours
+Convergence after 3 Picard iterations.
+
+Time step 705: 198.071 hours
+Convergence after 10 Picard iterations.
+
+Time step 706: 198.114 hours
+Convergence after 3 Picard iterations.
+
+Time step 707: 198.155 hours
+Convergence after 4 Picard iterations.
+
+Time step 708: 198.195 hours
+Convergence after 8 Picard iterations.
+
+Time step 709: 198.28 hours
+Convergence after 4 Picard iterations.
+
+Time step 710: 198.362 hours
+Convergence after 4 Picard iterations.
+
+Time step 711: 198.441 hours
+Convergence after 10 Picard iterations.
+
+Time step 712: 198.464 hours
+Convergence after 3 Picard iterations.
+
+Time step 713: 198.486 hours
+Convergence after 3 Picard iterations.
+
+Time step 714: 198.508 hours
+Convergence after 3 Picard iterations.
+
+Time step 715: 198.529 hours
+Convergence after 3 Picard iterations.
+
+Time step 716: 198.551 hours
+Convergence after 3 Picard iterations.
+
+Time step 717: 198.572 hours
+Convergence after 3 Picard iterations.
+
+Time step 718: 198.592 hours
+Convergence after 10 Picard iterations.
+
+Time step 719: 198.647 hours
+Convergence after 3 Picard iterations.
+
+Time step 720: 198.701 hours
+Convergence after 3 Picard iterations.
+
+Time step 721: 198.754 hours
+Convergence after 3 Picard iterations.
+
+Time step 722: 198.805 hours
+Convergence after 3 Picard iterations.
+
+Time step 723: 198.855 hours
+Convergence after 3 Picard iterations.
+
+Time step 724: 198.905 hours
+Convergence after 3 Picard iterations.
+
+Time step 725: 198.953 hours
+Convergence after 3 Picard iterations.
+
+Time step 726: 199.001 hours
+Convergence after 3 Picard iterations.
+
+Time step 727: 199.047 hours
+Convergence after 3 Picard iterations.
+
+Time step 728: 199.093 hours
+Convergence after 10 Picard iterations.
+
+Time step 729: 199.212 hours
+Convergence after 11 Picard iterations.
+
+Time step 730: 199.326 hours
+Convergence after 3 Picard iterations.
+
+Time step 731: 199.436 hours
+Convergence after 11 Picard iterations.
+
+Time step 732: 199.645 hours
+Convergence after 3 Picard iterations.
+
+Time step 733: 199.849 hours
+Convergence after 10 Picard iterations.
+
+Time step 734: 200.056 hours
+Convergence after 9 Picard iterations.
+
+Time step 735: 200.338 hours
+Convergence after 4 Picard iterations.
+
+Time step 736: 200.605 hours
+Convergence after 8 Picard iterations.
+
+Time step 737: 200.884 hours
+Convergence after 4 Picard iterations.
+
+Time step 738: 201.15 hours
+Convergence after 10 Picard iterations.
+
+Time step 739: 201.401 hours
+Convergence after 4 Picard iterations.
+
+Time step 740: 201.64 hours
+Convergence after 4 Picard iterations.
+
+Time step 741: 201.867 hours
+Convergence after 4 Picard iterations.
+
+Time step 742: 202.083 hours
+Convergence after 4 Picard iterations.
+
+Time step 743: 202.289 hours
+Convergence after 4 Picard iterations.
+
+Time step 744: 202.486 hours
+Convergence after 10 Picard iterations.
+
+Time step 745: 202.679 hours
+Convergence after 4 Picard iterations.
+
+Time step 746: 202.864 hours
+Convergence after 11 Picard iterations.
+
+Time step 747: 203.04 hours
+Convergence after 4 Picard iterations.
+
+Time step 748: 203.209 hours
+Convergence after 10 Picard iterations.
+
+Time step 749: 203.371 hours
+Convergence after 4 Picard iterations.
+
+Time step 750: 203.528 hours
+Convergence after 9 Picard iterations.
+
+Time step 751: 203.778 hours
+Convergence after 4 Picard iterations.
+
+Time step 752: 204.017 hours
+Convergence after 4 Picard iterations.
+
+Time step 753: 204.247 hours
+Convergence after 4 Picard iterations.
+
+Time step 754: 204.467 hours
+Convergence after 4 Picard iterations.
+
+Time step 755: 204.678 hours
+Convergence after 4 Picard iterations.
+
+Time step 756: 204.881 hours
+Convergence after 4 Picard iterations.
+
+Time step 757: 205.077 hours
+Convergence after 10 Picard iterations.
+
+Time step 758: 205.096 hours
+Convergence after 2 Picard iterations.
+
+Time step 759: 205.116 hours
+Convergence after 10 Picard iterations.
+
+Time step 760: 205.247 hours
+Convergence after 4 Picard iterations.
+
+Time step 761: 205.376 hours
+Convergence after 8 Picard iterations.
+
+Time step 762: 205.499 hours
+Convergence after 9 Picard iterations.
+
+Time step 763: 205.619 hours
+Convergence after 9 Picard iterations.
+
+Time step 764: 205.757 hours
+Convergence after 4 Picard iterations.
+
+Time step 765: 205.892 hours
+Convergence after 4 Picard iterations.
+
+Time step 766: 206.024 hours
+Convergence after 11 Picard iterations.
+
+Time step 767: 206.153 hours
+Convergence after 5 Picard iterations.
+
+Time step 768: 206.279 hours
+Convergence after 4 Picard iterations.
+
+Time step 769: 206.403 hours
+Convergence after 4 Picard iterations.
+
+Time step 770: 206.525 hours
+Convergence after 11 Picard iterations.
+
+Time step 771: 206.879 hours
+Convergence after 4 Picard iterations.
+
+Time step 772: 207.223 hours
+Convergence after 4 Picard iterations.
+
+Time step 773: 207.558 hours
+Convergence after 9 Picard iterations.
+
+Time step 774: 207.615 hours
+Convergence after 3 Picard iterations.
+
+Time step 775: 207.671 hours
+Convergence after 3 Picard iterations.
+
+Time step 776: 207.726 hours
+Convergence after 11 Picard iterations.
+
+Time step 777: 207.847 hours
+Convergence after 4 Picard iterations.
+
+Time step 778: 207.965 hours
+Convergence after 4 Picard iterations.
+
+Time step 779: 208.08 hours
+Convergence after 4 Picard iterations.
+
+Time step 780: 208.192 hours
+Convergence after 4 Picard iterations.
+
+Time step 781: 208.302 hours
+Convergence after 13 Picard iterations.
+
+Time step 782: 208.409 hours
+Convergence after 10 Picard iterations.
+
+Time step 783: 208.571 hours
+Convergence after 4 Picard iterations.
+
+Time step 784: 208.729 hours
+Convergence after 4 Picard iterations.
+
+Time step 785: 208.882 hours
+Convergence after 4 Picard iterations.
+
+Time step 786: 209.031 hours
+Convergence after 4 Picard iterations.
+
+Time step 787: 209.177 hours
+Convergence after 4 Picard iterations.
+
+Time step 788: 209.319 hours
+Convergence after 10 Picard iterations.
+
+Time step 789: 209.407 hours
+Convergence after 4 Picard iterations.
+
+Time step 790: 209.494 hours
+Convergence after 4 Picard iterations.
+
+Time step 791: 209.578 hours
+Convergence after 9 Picard iterations.
+
+Time step 792: 209.696 hours
+Convergence after 4 Picard iterations.
+
+Time step 793: 209.811 hours
+Convergence after 4 Picard iterations.
+
+Time step 794: 209.923 hours
+Convergence after 11 Picard iterations.
+
+Time step 795: 210.034 hours
+Convergence after 9 Picard iterations.
+
+Time step 796: 210.144 hours
+Convergence after 4 Picard iterations.
+
+Time step 797: 210.251 hours
+Convergence after 4 Picard iterations.
+
+Time step 798: 210.356 hours
+Convergence after 11 Picard iterations.
+
+Time step 799: 210.423 hours
+Convergence after 3 Picard iterations.
+
+Time step 800: 210.488 hours
+Convergence after 4 Picard iterations.
+
+Time step 801: 210.552 hours
+Convergence after 11 Picard iterations.
+
+Time step 802: 210.61 hours
+Convergence after 4 Picard iterations.
+
+Time step 803: 210.666 hours
+Convergence after 4 Picard iterations.
+
+Time step 804: 210.721 hours
+Convergence after 9 Picard iterations.
+
+Time step 805: 210.771 hours
+Convergence after 4 Picard iterations.
+
+Time step 806: 210.821 hours
+Convergence after 4 Picard iterations.
+
+Time step 807: 210.868 hours
+Convergence after 4 Picard iterations.
+
+Time step 808: 210.914 hours
+Convergence after 9 Picard iterations.
+
+Time step 809: 211.018 hours
+Convergence after 4 Picard iterations.
+
+Time step 810: 211.117 hours
+Convergence after 4 Picard iterations.
+
+Time step 811: 211.213 hours
+Convergence after 9 Picard iterations.
+
+Time step 812: 211.24 hours
+Convergence after 3 Picard iterations.
+
+Time step 813: 211.266 hours
+Convergence after 3 Picard iterations.
+
+Time step 814: 211.291 hours
+Convergence after 3 Picard iterations.
+
+Time step 815: 211.316 hours
+Convergence after 10 Picard iterations.
+
+Time step 816: 211.342 hours
+Convergence after 3 Picard iterations.
+
+Time step 817: 211.366 hours
+Convergence after 3 Picard iterations.
+
+Time step 818: 211.391 hours
+Convergence after 10 Picard iterations.
+
+Time step 819: 211.457 hours
+Convergence after 4 Picard iterations.
+
+Time step 820: 211.522 hours
+Convergence after 4 Picard iterations.
+
+Time step 821: 211.586 hours
+Convergence after 4 Picard iterations.
+
+Time step 822: 211.648 hours
+Convergence after 4 Picard iterations.
+
+Time step 823: 211.709 hours
+Convergence after 4 Picard iterations.
+
+Time step 824: 211.769 hours
+Convergence after 4 Picard iterations.
+
+Time step 825: 211.828 hours
+Convergence after 4 Picard iterations.
+
+Time step 826: 211.886 hours
+Convergence after 4 Picard iterations.
+
+Time step 827: 211.942 hours
+Convergence after 11 Picard iterations.
+
+Time step 828: 212.09 hours
+Convergence after 3 Picard iterations.
+
+Time step 829: 212.233 hours
+Convergence after 4 Picard iterations.
+
+Time step 830: 212.371 hours
+Convergence after 10 Picard iterations.
+
+Time step 831: 212.605 hours
+Convergence after 3 Picard iterations.
+
+Time step 832: 212.834 hours
+Convergence after 12 Picard iterations.
+
+Time step 833: 213.076 hours
+Convergence after 11 Picard iterations.
+
+Time step 834: 213.323 hours
+Convergence after 10 Picard iterations.
+
+Time step 835: 213.665 hours
+Convergence after 9 Picard iterations.
+
+Time step 836: 214.021 hours
+Convergence after 4 Picard iterations.
+
+Time step 837: 214.36 hours
+Convergence after 9 Picard iterations.
+
+Time step 838: 214.683 hours
+Convergence after 4 Picard iterations.
+
+Time step 839: 214.991 hours
+Convergence after 4 Picard iterations.
+
+Time step 840: 215.283 hours
+Convergence after 4 Picard iterations.
+
+Time step 841: 215.563 hours
+Convergence after 4 Picard iterations.
+
+Time step 842: 215.83 hours
+Convergence after 4 Picard iterations.
+
+Time step 843: 216.085 hours
+Convergence after 4 Picard iterations.
+
+Time step 844: 216.329 hours
+Convergence after 11 Picard iterations.
+
+Time step 845: 216.567 hours
+Convergence after 10 Picard iterations.
+
+Time step 846: 216.796 hours
+Convergence after 4 Picard iterations.
+
+Time step 847: 217.016 hours
+Convergence after 4 Picard iterations.
+
+Time step 848: 217.227 hours
+Convergence after 4 Picard iterations.
+
+Time step 849: 217.43 hours
+Convergence after 4 Picard iterations.
+
+Time step 850: 217.625 hours
+Convergence after 10 Picard iterations.
+
+Time step 851: 217.952 hours
+Convergence after 9 Picard iterations.
+
+Time step 852: 218.256 hours
+Convergence after 4 Picard iterations.
+
+Time step 853: 218.549 hours
+Convergence after 4 Picard iterations.
+
+Time step 854: 218.83 hours
+Convergence after 4 Picard iterations.
+
+Time step 855: 219.1 hours
+Convergence after 4 Picard iterations.
+
+Time step 856: 219.361 hours
+Convergence after 13 Picard iterations.
+
+Time step 857: 219.387 hours
+Convergence after 3 Picard iterations.
+
+Time step 858: 219.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 859: 219.44 hours
+Convergence after 3 Picard iterations.
+
+Time step 860: 219.465 hours
+Convergence after 12 Picard iterations.
+
+Time step 861: 219.631 hours
+Convergence after 9 Picard iterations.
+
+Time step 862: 219.79 hours
+Convergence after 4 Picard iterations.
+
+Time step 863: 219.945 hours
+Convergence after 4 Picard iterations.
+
+Time step 864: 220.098 hours
+Convergence after 4 Picard iterations.
+
+Time step 865: 220.248 hours
+Convergence after 4 Picard iterations.
+
+Time step 866: 220.395 hours
+Convergence after 12 Picard iterations.
+
+Time step 867: 220.561 hours
+Convergence after 4 Picard iterations.
+
+Time step 868: 220.725 hours
+Convergence after 4 Picard iterations.
+
+Time step 869: 220.887 hours
+Convergence after 11 Picard iterations.
+
+Time step 870: 221.043 hours
+Convergence after 4 Picard iterations.
+
+Time step 871: 221.198 hours
+Convergence after 11 Picard iterations.
+
+Time step 872: 221.637 hours
+Convergence after 5 Picard iterations.
+
+Time step 873: 222.066 hours
+Convergence after 8 Picard iterations.
+
+Time step 874: 222.485 hours
+Convergence after 10 Picard iterations.
+
+Time step 875: 222.562 hours
+Convergence after 3 Picard iterations.
+
+Time step 876: 222.637 hours
+Convergence after 3 Picard iterations.
+
+Time step 877: 222.711 hours
+Convergence after 11 Picard iterations.
+
+Time step 878: 222.783 hours
+Convergence after 3 Picard iterations.
+
+Time step 879: 222.855 hours
+Convergence after 12 Picard iterations.
+
+Time step 880: 223.013 hours
+Convergence after 4 Picard iterations.
+
+Time step 881: 223.168 hours
+Convergence after 4 Picard iterations.
+
+Time step 882: 223.319 hours
+Convergence after 4 Picard iterations.
+
+Time step 883: 223.466 hours
+Convergence after 4 Picard iterations.
+
+Time step 884: 223.61 hours
+Convergence after 4 Picard iterations.
+
+Time step 885: 223.751 hours
+Convergence after 11 Picard iterations.
+
+Time step 886: 223.949 hours
+Convergence after 4 Picard iterations.
+
+Time step 887: 224.143 hours
+Convergence after 4 Picard iterations.
+
+Time step 888: 224.332 hours
+Convergence after 4 Picard iterations.
+
+Time step 889: 224.517 hours
+Convergence after 8 Picard iterations.
+
+Time step 890: 224.696 hours
+Convergence after 5 Picard iterations.
+
+Time step 891: 224.872 hours
+Convergence after 9 Picard iterations.
+
+Time step 892: 225.043 hours
+Convergence after 11 Picard iterations.
+
+Time step 893: 225.153 hours
+Convergence after 11 Picard iterations.
+
+Time step 894: 225.307 hours
+Convergence after 4 Picard iterations.
+
+Time step 895: 225.458 hours
+Convergence after 4 Picard iterations.
+
+Time step 896: 225.605 hours
+Convergence after 4 Picard iterations.
+
+Time step 897: 225.749 hours
+Convergence after 4 Picard iterations.
+
+Time step 898: 225.89 hours
+Convergence after 4 Picard iterations.
+
+Time step 899: 226.029 hours
+Convergence after 4 Picard iterations.
+
+Time step 900: 226.164 hours
+Convergence after 13 Picard iterations.
+
+Time step 901: 226.254 hours
+Convergence after 3 Picard iterations.
+
+Time step 902: 226.341 hours
+Convergence after 3 Picard iterations.
+
+Time step 903: 226.426 hours
+Convergence after 11 Picard iterations.
+
+Time step 904: 226.509 hours
+Convergence after 12 Picard iterations.
+
+Time step 905: 226.585 hours
+Convergence after 3 Picard iterations.
+
+Time step 906: 226.659 hours
+Convergence after 3 Picard iterations.
+
+Time step 907: 226.731 hours
+Convergence after 11 Picard iterations.
+
+Time step 908: 226.8 hours
+Convergence after 3 Picard iterations.
+
+Time step 909: 226.867 hours
+Convergence after 12 Picard iterations.
+
+Time step 910: 226.93 hours
+Convergence after 10 Picard iterations.
+
+Time step 911: 227.074 hours
+Convergence after 3 Picard iterations.
+
+Time step 912: 227.213 hours
+Convergence after 3 Picard iterations.
+
+Time step 913: 227.347 hours
+Convergence after 3 Picard iterations.
+
+Time step 914: 227.477 hours
+Convergence after 9 Picard iterations.
+
+Time step 915: 227.511 hours
+Convergence after 3 Picard iterations.
+
+Time step 916: 227.545 hours
+Convergence after 3 Picard iterations.
+
+Time step 917: 227.578 hours
+Convergence after 3 Picard iterations.
+
+Time step 918: 227.611 hours
+Convergence after 3 Picard iterations.
+
+Time step 919: 227.644 hours
+Convergence after 3 Picard iterations.
+
+Time step 920: 227.676 hours
+Convergence after 3 Picard iterations.
+
+Time step 921: 227.708 hours
+Convergence after 8 Picard iterations.
+
+Time step 922: 227.794 hours
+Convergence after 3 Picard iterations.
+
+Time step 923: 227.879 hours
+Convergence after 3 Picard iterations.
+
+Time step 924: 227.962 hours
+Convergence after 3 Picard iterations.
+
+Time step 925: 228.044 hours
+Convergence after 3 Picard iterations.
+
+Time step 926: 228.125 hours
+Convergence after 11 Picard iterations.
+
+Time step 927: 228.204 hours
+Convergence after 13 Picard iterations.
+
+Time step 928: 228.282 hours
+Convergence after 3 Picard iterations.
+
+Time step 929: 228.358 hours
+Convergence after 3 Picard iterations.
+
+Time step 930: 228.433 hours
+Convergence after 10 Picard iterations.
+
+Time step 931: 228.624 hours
+Convergence after 11 Picard iterations.
+
+Time step 932: 228.809 hours
+Convergence after 3 Picard iterations.
+
+Time step 933: 228.989 hours
+Convergence after 3 Picard iterations.
+
+Time step 934: 229.162 hours
+Convergence after 10 Picard iterations.
+
+Time step 935: 229.472 hours
+Convergence after 11 Picard iterations.
+
+Time step 936: 229.777 hours
+Convergence after 3 Picard iterations.
+
+Time step 937: 230.074 hours
+Convergence after 10 Picard iterations.
+
+Time step 938: 230.54 hours
+Convergence after 10 Picard iterations.
+
+Time step 939: 230.994 hours
+Convergence after 9 Picard iterations.
+
+Time step 940: 231.427 hours
+Convergence after 3 Picard iterations.
+
+Time step 941: 231.839 hours
+Convergence after 3 Picard iterations.
+
+Time step 942: 232.233 hours
+Convergence after 3 Picard iterations.
+
+Time step 943: 232.609 hours
+Convergence after 3 Picard iterations.
+
+Time step 944: 232.969 hours
+Convergence after 3 Picard iterations.
+
+Time step 945: 233.313 hours
+Convergence after 3 Picard iterations.
+
+Time step 946: 233.644 hours
+Convergence after 12 Picard iterations.
+
+Time step 947: 233.967 hours
+Convergence after 3 Picard iterations.
+
+Time step 948: 234.278 hours
+Convergence after 3 Picard iterations.
+
+Time step 949: 234.576 hours
+Convergence after 3 Picard iterations.
+
+Time step 950: 234.863 hours
+Convergence after 3 Picard iterations.
+
+Time step 951: 235.14 hours
+Convergence after 13 Picard iterations.
+
+Time step 952: 235.405 hours
+Convergence after 10 Picard iterations.
+
+Time step 953: 235.853 hours
+Convergence after 3 Picard iterations.
+
+Time step 954: 236.283 hours
+Convergence after 11 Picard iterations.
+
+Time step 955: 236.7 hours
+Convergence after 11 Picard iterations.
+
+Time step 956: 237.086 hours
+Convergence after 3 Picard iterations.
+
+Time step 957: 237.457 hours
+Convergence after 11 Picard iterations.
+
+Time step 958: 237.813 hours
+Convergence after 3 Picard iterations.
+
+Time step 959: 238.157 hours
+Convergence after 12 Picard iterations.
+
+Time step 960: 238.193 hours
+Convergence after 2 Picard iterations.
+
+Time step 961: 238.228 hours
+Convergence after 2 Picard iterations.
+
+Time step 962: 238.262 hours
+Convergence after 11 Picard iterations.
+
+Time step 963: 238.468 hours
+Convergence after 3 Picard iterations.
+
+Time step 964: 238.67 hours
+Convergence after 3 Picard iterations.
+
+Time step 965: 238.869 hours
+Convergence after 3 Picard iterations.
+
+Time step 966: 239.064 hours
+Convergence after 3 Picard iterations.
+
+Time step 967: 239.256 hours
+Convergence after 3 Picard iterations.
+
+Time step 968: 239.445 hours
+Convergence after 3 Picard iterations.
+
+Time step 969: 239.631 hours
+Convergence after 11 Picard iterations.
+
+Time step 970: 239.842 hours
+Convergence after 3 Picard iterations.
+
+Time step 971: 240.051 hours
+Convergence after 3 Picard iterations.
+
+Time step 972: 240.256 hours
+Convergence after 11 Picard iterations.
+
+Time step 973: 240.756 hours
+Convergence after 11 Picard iterations.
+
+Time step 974: 241.256 hours
+Convergence after 4 Picard iterations.
+
+Time step 975: 241.756 hours
+Convergence after 4 Picard iterations.
+
+Time step 976: 242.256 hours
+Convergence after 11 Picard iterations.
+
+Time step 977: 242.756 hours
+Convergence after 9 Picard iterations.
+
+Time step 978: 242.861 hours
+Convergence after 3 Picard iterations.
+
+Time step 979: 242.964 hours
+Convergence after 12 Picard iterations.
+
+Time step 980: 243.065 hours
+Convergence after 11 Picard iterations.
+
+Time step 981: 243.286 hours
+Convergence after 3 Picard iterations.
+
+Time step 982: 243.502 hours
+Convergence after 3 Picard iterations.
+
+Time step 983: 243.713 hours
+Convergence after 3 Picard iterations.
+
+Time step 984: 243.92 hours
+Convergence after 3 Picard iterations.
+
+Time step 985: 244.122 hours
+Convergence after 3 Picard iterations.
+
+Time step 986: 244.32 hours
+Convergence after 3 Picard iterations.
+
+Time step 987: 244.513 hours
+Convergence after 11 Picard iterations.
+
+Time step 988: 244.765 hours
+Convergence after 4 Picard iterations.
+
+Time step 989: 245.012 hours
+Convergence after 4 Picard iterations.
+
+Time step 990: 245.254 hours
+Convergence after 4 Picard iterations.
+
+Time step 991: 245.491 hours
+Convergence after 4 Picard iterations.
+
+Time step 992: 245.724 hours
+Convergence after 4 Picard iterations.
+
+Time step 993: 245.952 hours
+Convergence after 11 Picard iterations.
+
+Time step 994: 246.312 hours
+Convergence after 12 Picard iterations.
+
+Time step 995: 246.515 hours
+Convergence after 3 Picard iterations.
+
+Time step 996: 246.714 hours
+Convergence after 11 Picard iterations.
+
+Time step 997: 246.91 hours
+Convergence after 3 Picard iterations.
+
+Time step 998: 247.103 hours
+Convergence after 11 Picard iterations.
+
+Time step 999: 247.297 hours
+Convergence after 3 Picard iterations.
+
+Time step 1000: 247.487 hours
+Convergence after 8 Picard iterations.
+
+Time step 1001: 247.675 hours
+Convergence after 12 Picard iterations.
+
+Time step 1002: 247.8 hours
+Convergence after 11 Picard iterations.
+
+Time step 1003: 247.921 hours
+Convergence after 3 Picard iterations.
+
+Time step 1004: 248.04 hours
+Convergence after 3 Picard iterations.
+
+Time step 1005: 248.156 hours
+Convergence after 3 Picard iterations.
+
+Time step 1006: 248.269 hours
+Convergence after 11 Picard iterations.
+
+Time step 1007: 248.374 hours
+Convergence after 3 Picard iterations.
+
+Time step 1008: 248.476 hours
+Convergence after 3 Picard iterations.
+
+Time step 1009: 248.575 hours
+Convergence after 10 Picard iterations.
+
+Time step 1010: 248.82 hours
+Convergence after 12 Picard iterations.
+
+Time step 1011: 249.035 hours
+Convergence after 3 Picard iterations.
+
+Time step 1012: 249.244 hours
+Convergence after 3 Picard iterations.
+
+Time step 1013: 249.445 hours
+Convergence after 3 Picard iterations.
+
+Time step 1014: 249.641 hours
+Convergence after 9 Picard iterations.
+
+Time step 1015: 249.691 hours
+Convergence after 2 Picard iterations.
+
+Time step 1016: 249.741 hours
+Convergence after 2 Picard iterations.
+
+Time step 1017: 249.79 hours
+Convergence after 2 Picard iterations.
+
+Time step 1018: 249.838 hours
+Convergence after 2 Picard iterations.
+
+Time step 1019: 249.886 hours
+Convergence after 2 Picard iterations.
+
+Time step 1020: 249.933 hours
+Convergence after 2 Picard iterations.
+
+Time step 1021: 249.98 hours
+Convergence after 2 Picard iterations.
+
+Time step 1022: 250.026 hours
+Convergence after 2 Picard iterations.
+
+Time step 1023: 250.071 hours
+Convergence after 10 Picard iterations.
+
+Time step 1024: 250.19 hours
+Convergence after 3 Picard iterations.
+
+Time step 1025: 250.306 hours
+Convergence after 3 Picard iterations.
+
+Time step 1026: 250.421 hours
+Convergence after 3 Picard iterations.
+
+Time step 1027: 250.535 hours
+Convergence after 3 Picard iterations.
+
+Time step 1028: 250.646 hours
+Convergence after 3 Picard iterations.
+
+Time step 1029: 250.756 hours
+Convergence after 3 Picard iterations.
+
+Time step 1030: 250.865 hours
+Convergence after 8 Picard iterations.
+
+Time step 1031: 250.986 hours
+Convergence after 10 Picard iterations.
+
+Time step 1032: 251.261 hours
+Convergence after 11 Picard iterations.
+
+Time step 1033: 251.529 hours
+Convergence after 3 Picard iterations.
+
+Time step 1034: 251.789 hours
+Convergence after 10 Picard iterations.
+
+Time step 1035: 252.112 hours
+Convergence after 10 Picard iterations.
+
+Time step 1036: 252.612 hours
+Convergence after 10 Picard iterations.
+
+Time step 1037: 253.112 hours
+Convergence after 3 Picard iterations.
+
+Time step 1038: 253.612 hours
+Convergence after 9 Picard iterations.
+
+Time step 1039: 254.112 hours
+Convergence after 9 Picard iterations.
+
+Time step 1040: 254.612 hours
+Convergence after 10 Picard iterations.
+
+Time step 1041: 255.112 hours
+Convergence after 7 Picard iterations.
+
+Time step 1042: 255.612 hours
+Convergence after 3 Picard iterations.
+
+Time step 1043: 256.112 hours
+Convergence after 11 Picard iterations.
+
+Time step 1044: 256.612 hours
+Convergence after 3 Picard iterations.
+
+Time step 1045: 257.112 hours
+Convergence after 3 Picard iterations.
+
+Time step 1046: 257.612 hours
+Convergence after 3 Picard iterations.
+
+Time step 1047: 258.094 hours
+Convergence after 3 Picard iterations.
+
+Time step 1048: 258.558 hours
+Convergence after 3 Picard iterations.
+
+Time step 1049: 259.005 hours
+Convergence after 3 Picard iterations.
+
+Time step 1050: 259.435 hours
+Convergence after 3 Picard iterations.
+
+Time step 1051: 259.85 hours
+Convergence after 3 Picard iterations.
+
+Time step 1052: 260.25 hours
+Convergence after 10 Picard iterations.
+
+Time step 1053: 260.75 hours
+Convergence after 3 Picard iterations.
+
+Time step 1054: 261.25 hours
+Convergence after 3 Picard iterations.
+
+Time step 1055: 261.75 hours
+Convergence after 12 Picard iterations.
+
+Time step 1056: 262.25 hours
+Convergence after 3 Picard iterations.
+
+Time step 1057: 262.75 hours
+Convergence after 11 Picard iterations.
+
+Time step 1058: 263.25 hours
+Convergence after 10 Picard iterations.
+
+Time step 1059: 263.75 hours
+Convergence after 9 Picard iterations.
+
+Time step 1060: 264.25 hours
+Convergence after 3 Picard iterations.
+
+Time step 1061: 264.739 hours
+Convergence after 11 Picard iterations.
+
+Time step 1062: 264.794 hours
+Convergence after 2 Picard iterations.
+
+Time step 1063: 264.849 hours
+Convergence after 2 Picard iterations.
+
+Time step 1064: 264.903 hours
+Convergence after 2 Picard iterations.
+
+Time step 1065: 264.956 hours
+Convergence after 2 Picard iterations.
+
+Time step 1066: 265.01 hours
+Convergence after 10 Picard iterations.
+
+Time step 1067: 265.297 hours
+Convergence after 3 Picard iterations.
+
+Time step 1068: 265.58 hours
+Convergence after 3 Picard iterations.
+
+Time step 1069: 265.859 hours
+Convergence after 3 Picard iterations.
+
+Time step 1070: 266.133 hours
+Convergence after 3 Picard iterations.
+
+Time step 1071: 266.404 hours
+Convergence after 3 Picard iterations.
+
+Time step 1072: 266.672 hours
+Convergence after 3 Picard iterations.
+
+Time step 1073: 266.936 hours
+Convergence after 3 Picard iterations.
+
+Time step 1074: 267.196 hours
+Convergence after 10 Picard iterations.
+
+Time step 1075: 267.696 hours
+Convergence after 3 Picard iterations.
+
+Time step 1076: 268.196 hours
+Convergence after 10 Picard iterations.
+
+Time step 1077: 268.696 hours
+Convergence after 3 Picard iterations.
+
+Time step 1078: 269.196 hours
+Convergence after 10 Picard iterations.
+
+Time step 1079: 269.696 hours
+Convergence after 3 Picard iterations.
+
+Time step 1080: 270.196 hours
+Convergence after 3 Picard iterations.
+
+Time step 1081: 270.696 hours
+Convergence after 3 Picard iterations.
+
+Time step 1082: 271.196 hours
+Convergence after 9 Picard iterations.
+
+Time step 1083: 271.36 hours
+Convergence after 11 Picard iterations.
+
+Time step 1084: 271.522 hours
+Convergence after 2 Picard iterations.
+
+Time step 1085: 271.681 hours
+Convergence after 2 Picard iterations.
+
+Time step 1086: 271.838 hours
+Convergence after 2 Picard iterations.
+
+Time step 1087: 271.992 hours
+Convergence after 10 Picard iterations.
+
+Time step 1088: 272.344 hours
+Convergence after 3 Picard iterations.
+
+Time step 1089: 272.688 hours
+Convergence after 3 Picard iterations.
+
+Time step 1090: 273.026 hours
+Convergence after 3 Picard iterations.
+
+Time step 1091: 273.357 hours
+Convergence after 8 Picard iterations.
+
+Time step 1092: 273.67 hours
+Convergence after 3 Picard iterations.
+
+Time step 1093: 273.977 hours
+Convergence after 3 Picard iterations.
+
+Time step 1094: 274.279 hours
+Convergence after 11 Picard iterations.
+
+Time step 1095: 274.632 hours
+Convergence after 3 Picard iterations.
+
+Time step 1096: 274.979 hours
+Convergence after 3 Picard iterations.
+
+Time step 1097: 275.32 hours
+Convergence after 4 Picard iterations.
+
+Time step 1098: 275.656 hours
+Convergence after 12 Picard iterations.
+
+Time step 1099: 276.156 hours
+Convergence after 4 Picard iterations.
+
+Time step 1100: 276.656 hours
+Convergence after 12 Picard iterations.
+
+Time step 1101: 277.156 hours
+Convergence after 7 Picard iterations.
+
+Time step 1102: 277.654 hours
+Convergence after 10 Picard iterations.
+
+Time step 1103: 277.936 hours
+Convergence after 3 Picard iterations.
+
+Time step 1104: 278.213 hours
+Convergence after 3 Picard iterations.
+
+Time step 1105: 278.487 hours
+Convergence after 3 Picard iterations.
+
+Time step 1106: 278.756 hours
+Convergence after 3 Picard iterations.
+
+Time step 1107: 279.023 hours
+Convergence after 11 Picard iterations.
+
+Time step 1108: 279.208 hours
+Convergence after 2 Picard iterations.
+
+Time step 1109: 279.389 hours
+Convergence after 3 Picard iterations.
+
+Time step 1110: 279.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1111: 279.741 hours
+Convergence after 3 Picard iterations.
+
+Time step 1112: 279.912 hours
+Convergence after 10 Picard iterations.
+
+Time step 1113: 280.297 hours
+Convergence after 3 Picard iterations.
+
+Time step 1114: 280.673 hours
+Convergence after 8 Picard iterations.
+
+Time step 1115: 281.038 hours
+Convergence after 3 Picard iterations.
+
+Time step 1116: 281.393 hours
+Convergence after 11 Picard iterations.
+
+Time step 1117: 281.709 hours
+Convergence after 3 Picard iterations.
+
+Time step 1118: 282.016 hours
+Convergence after 10 Picard iterations.
+
+Time step 1119: 282.098 hours
+Convergence after 2 Picard iterations.
+
+Time step 1120: 282.179 hours
+Convergence after 2 Picard iterations.
+
+Time step 1121: 282.259 hours
+Convergence after 2 Picard iterations.
+
+Time step 1122: 282.338 hours
+Convergence after 2 Picard iterations.
+
+Time step 1123: 282.417 hours
+Convergence after 2 Picard iterations.
+
+Time step 1124: 282.494 hours
+Convergence after 2 Picard iterations.
+
+Time step 1125: 282.571 hours
+Convergence after 2 Picard iterations.
+
+Time step 1126: 282.647 hours
+Convergence after 2 Picard iterations.
+
+Time step 1127: 282.722 hours
+Convergence after 2 Picard iterations.
+
+Time step 1128: 282.796 hours
+Convergence after 2 Picard iterations.
+
+Time step 1129: 282.87 hours
+Convergence after 2 Picard iterations.
+
+Time step 1130: 282.942 hours
+Convergence after 9 Picard iterations.
+
+Time step 1131: 283.147 hours
+Convergence after 3 Picard iterations.
+
+Time step 1132: 283.35 hours
+Convergence after 3 Picard iterations.
+
+Time step 1133: 283.55 hours
+Convergence after 3 Picard iterations.
+
+Time step 1134: 283.748 hours
+Convergence after 3 Picard iterations.
+
+Time step 1135: 283.943 hours
+Convergence after 3 Picard iterations.
+
+Time step 1136: 284.136 hours
+Convergence after 9 Picard iterations.
+
+Time step 1137: 284.457 hours
+Convergence after 10 Picard iterations.
+
+Time step 1138: 284.957 hours
+Convergence after 10 Picard iterations.
+
+Time step 1139: 285.457 hours
+Convergence after 7 Picard iterations.
+
+Time step 1140: 285.955 hours
+Convergence after 3 Picard iterations.
+
+Time step 1141: 286.44 hours
+Convergence after 3 Picard iterations.
+
+Time step 1142: 286.914 hours
+Convergence after 11 Picard iterations.
+
+Time step 1143: 287.414 hours
+Convergence after 8 Picard iterations.
+
+Time step 1144: 287.914 hours
+Convergence after 11 Picard iterations.
+
+Time step 1145: 288.414 hours
+Convergence after 9 Picard iterations.
+
+Time step 1146: 288.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1147: 289.414 hours
+Convergence after 7 Picard iterations.
+
+Time step 1148: 289.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1149: 290.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1150: 290.914 hours
+Convergence after 9 Picard iterations.
+
+Time step 1151: 291.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1152: 291.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1153: 292.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1154: 292.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1155: 293.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1156: 293.914 hours
+Convergence after 10 Picard iterations.
+
+Time step 1157: 294.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1158: 294.914 hours
+Convergence after 11 Picard iterations.
+
+Time step 1159: 295.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1160: 295.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1161: 296.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1162: 296.914 hours
+Convergence after 9 Picard iterations.
+
+Time step 1163: 297.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1164: 297.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1165: 298.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1166: 298.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1167: 299.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1168: 299.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1169: 300.414 hours
+Convergence after 3 Picard iterations.
+
+Time step 1170: 300.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1171: 301.414 hours
+Convergence after 8 Picard iterations.
+
+Time step 1172: 301.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1173: 302.414 hours
+Convergence after 12 Picard iterations.
+
+Time step 1174: 302.914 hours
+Convergence after 10 Picard iterations.
+
+Time step 1175: 303.414 hours
+Convergence after 11 Picard iterations.
+
+Time step 1176: 303.914 hours
+Convergence after 3 Picard iterations.
+
+Time step 1177: 304.414 hours
+Convergence after 11 Picard iterations.
+
+Time step 1178: 304.509 hours
+Convergence after 2 Picard iterations.
+
+Time step 1179: 304.604 hours
+Convergence after 2 Picard iterations.
+
+Time step 1180: 304.698 hours
+Convergence after 2 Picard iterations.
+
+Time step 1181: 304.791 hours
+Convergence after 2 Picard iterations.
+
+Time step 1182: 304.883 hours
+Convergence after 2 Picard iterations.
+
+Time step 1183: 304.975 hours
+Convergence after 2 Picard iterations.
+
+Time step 1184: 305.066 hours
+Convergence after 9 Picard iterations.
+
+Time step 1185: 305.5 hours
+Convergence after 3 Picard iterations.
+
+Time step 1186: 305.928 hours
+Convergence after 11 Picard iterations.
+
+Time step 1187: 306.342 hours
+Convergence after 9 Picard iterations.
+
+Time step 1188: 306.745 hours
+Convergence after 3 Picard iterations.
+
+Time step 1189: 307.144 hours
+Convergence after 3 Picard iterations.
+
+Time step 1190: 307.538 hours
+Convergence after 3 Picard iterations.
+
+Time step 1191: 307.928 hours
+Convergence after 9 Picard iterations.
+
+Time step 1192: 308.428 hours
+Convergence after 3 Picard iterations.
+
+Time step 1193: 308.928 hours
+Convergence after 10 Picard iterations.
+
+Time step 1194: 309.428 hours
+Convergence after 10 Picard iterations.
+
+Time step 1195: 309.928 hours
+Convergence after 11 Picard iterations.
+
+Time step 1196: 310.428 hours
+Convergence after 3 Picard iterations.
+
+Time step 1197: 310.928 hours
+Convergence after 3 Picard iterations.
+
+Time step 1198: 311.428 hours
+Convergence after 3 Picard iterations.
+
+Time step 1199: 311.928 hours
+Convergence after 3 Picard iterations.
+
+Time step 1200: 312.428 hours
+Convergence after 3 Picard iterations.
+
+Time step 1201: 312.928 hours
+Convergence after 3 Picard iterations.
+
+Time step 1202: 313.428 hours
+Convergence after 3 Picard iterations.
+
+Time step 1203: 313.928 hours
+Convergence after 9 Picard iterations.
+
+Time step 1204: 314.197 hours
+Convergence after 13 Picard iterations.
+
+Time step 1205: 314.459 hours
+Convergence after 12 Picard iterations.
+
+Time step 1206: 314.718 hours
+Convergence after 3 Picard iterations.
+
+Time step 1207: 314.972 hours
+Convergence after 3 Picard iterations.
+
+Time step 1208: 315.224 hours
+Convergence after 3 Picard iterations.
+
+Time step 1209: 315.473 hours
+Convergence after 9 Picard iterations.
+
+Time step 1210: 315.973 hours
+Convergence after 3 Picard iterations.
+
+Time step 1211: 316.473 hours
+Convergence after 3 Picard iterations.
+
+Time step 1212: 316.973 hours
+Convergence after 3 Picard iterations.
+
+Time step 1213: 317.473 hours
+Convergence after 3 Picard iterations.
+
+Time step 1214: 317.973 hours
+Convergence after 3 Picard iterations.
+
+Time step 1215: 318.473 hours
+Convergence after 3 Picard iterations.
+
+Time step 1216: 318.973 hours
+Convergence after 3 Picard iterations.
+
+Time step 1217: 319.473 hours
+Convergence after 3 Picard iterations.
+
+Time step 1218: 319.972 hours
+Convergence after 10 Picard iterations.
+
+Time step 1219: 320.472 hours
+Convergence after 3 Picard iterations.
+
+Time step 1220: 320.972 hours
+Convergence after 3 Picard iterations.
+
+Time step 1221: 321.472 hours
+Convergence after 11 Picard iterations.
+
+Time step 1222: 321.972 hours
+Convergence after 12 Picard iterations.
+
+Time step 1223: 322.472 hours
+Convergence after 3 Picard iterations.
+
+Time step 1224: 322.972 hours
+Convergence after 3 Picard iterations.
+
+Time step 1225: 323.472 hours
+Convergence after 3 Picard iterations.
+
+Time step 1226: 323.972 hours
+Convergence after 3 Picard iterations.
+
+Time step 1227: 324.472 hours
+Convergence after 3 Picard iterations.
+
+Time step 1228: 324.972 hours
+Convergence after 10 Picard iterations.
+
+Time step 1229: 325.39 hours
+Convergence after 3 Picard iterations.
+
+Time step 1230: 325.804 hours
+Convergence after 3 Picard iterations.
+
+Time step 1231: 326.213 hours
+Convergence after 11 Picard iterations.
+
+Time step 1232: 326.507 hours
+Convergence after 10 Picard iterations.
+
+Time step 1233: 327.007 hours
+Convergence after 3 Picard iterations.
+
+Time step 1234: 327.507 hours
+Convergence after 3 Picard iterations.
+
+Time step 1235: 328.007 hours
+Convergence after 3 Picard iterations.
+
+Time step 1236: 328.507 hours
+Convergence after 9 Picard iterations.
+
+Time step 1237: 329.007 hours
+Convergence after 3 Picard iterations.
+
+Time step 1238: 329.507 hours
+Convergence after 3 Picard iterations.
+
+Time step 1239: 330.007 hours
+Convergence after 3 Picard iterations.
+
+Time step 1240: 330.507 hours
+Convergence after 3 Picard iterations.
+
+Time step 1241: 331.007 hours
+Convergence after 11 Picard iterations.
+
+Time step 1242: 331.507 hours
+Convergence after 11 Picard iterations.
+
+Time step 1243: 331.663 hours
+Convergence after 2 Picard iterations.
+
+Time step 1244: 331.817 hours
+Convergence after 2 Picard iterations.
+
+Time step 1245: 331.969 hours
+Convergence after 2 Picard iterations.
+
+Time step 1246: 332.12 hours
+Convergence after 2 Picard iterations.
+
+Time step 1247: 332.27 hours
+Convergence after 2 Picard iterations.
+
+Time step 1248: 332.418 hours
+Convergence after 3 Picard iterations.
+
+Time step 1249: 332.565 hours
+Convergence after 2 Picard iterations.
+
+Time step 1250: 332.71 hours
+Convergence after 2 Picard iterations.
+
+Time step 1251: 332.854 hours
+Convergence after 11 Picard iterations.
+
+Time step 1252: 332.996 hours
+Convergence after 2 Picard iterations.
+
+Time step 1253: 333.135 hours
+Convergence after 3 Picard iterations.
+
+Time step 1254: 333.274 hours
+Convergence after 9 Picard iterations.
+
+Time step 1255: 333.651 hours
+Convergence after 11 Picard iterations.
+
+Time step 1256: 334.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1257: 334.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1258: 335.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1259: 335.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1260: 336.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1261: 336.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1262: 337.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1263: 337.651 hours
+Convergence after 11 Picard iterations.
+
+Time step 1264: 338.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1265: 338.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1266: 339.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1267: 339.651 hours
+Convergence after 12 Picard iterations.
+
+Time step 1268: 340.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1269: 340.651 hours
+Convergence after 11 Picard iterations.
+
+Time step 1270: 341.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1271: 341.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1272: 342.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1273: 342.651 hours
+Convergence after 8 Picard iterations.
+
+Time step 1274: 343.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1275: 343.651 hours
+Convergence after 8 Picard iterations.
+
+Time step 1276: 344.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1277: 344.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1278: 345.151 hours
+Convergence after 12 Picard iterations.
+
+Time step 1279: 345.651 hours
+Convergence after 8 Picard iterations.
+
+Time step 1280: 346.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1281: 346.651 hours
+Convergence after 8 Picard iterations.
+
+Time step 1282: 347.151 hours
+Convergence after 7 Picard iterations.
+
+Time step 1283: 347.651 hours
+Convergence after 7 Picard iterations.
+
+Time step 1284: 348.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1285: 348.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1286: 349.151 hours
+Convergence after 9 Picard iterations.
+
+Time step 1287: 349.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1288: 350.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1289: 350.651 hours
+Convergence after 8 Picard iterations.
+
+Time step 1290: 351.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1291: 351.651 hours
+Convergence after 12 Picard iterations.
+
+Time step 1292: 352.151 hours
+Convergence after 9 Picard iterations.
+
+Time step 1293: 352.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1294: 353.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1295: 353.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1296: 354.151 hours
+Convergence after 9 Picard iterations.
+
+Time step 1297: 354.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1298: 355.151 hours
+Convergence after 11 Picard iterations.
+
+Time step 1299: 355.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1300: 356.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1301: 356.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1302: 357.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1303: 357.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1304: 358.151 hours
+Convergence after 9 Picard iterations.
+
+Time step 1305: 358.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1306: 359.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1307: 359.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1308: 360.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1309: 360.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1310: 361.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1311: 361.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1312: 362.151 hours
+Convergence after 8 Picard iterations.
+
+Time step 1313: 362.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1314: 363.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1315: 363.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1316: 364.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1317: 364.651 hours
+Convergence after 11 Picard iterations.
+
+Time step 1318: 365.151 hours
+Convergence after 3 Picard iterations.
+
+Time step 1319: 365.651 hours
+Convergence after 3 Picard iterations.
+
+Time step 1320: 366.151 hours
+Convergence after 10 Picard iterations.
+
+Time step 1321: 366.651 hours
+Convergence after 10 Picard iterations.
+
+Time step 1322: 367.151 hours
+Convergence after 12 Picard iterations.
+
+Time step 1323: 367.318 hours
+Convergence after 2 Picard iterations.
+
+Time step 1324: 367.484 hours
+Convergence after 9 Picard iterations.
+
+Time step 1325: 367.649 hours
+Convergence after 2 Picard iterations.
+
+Time step 1326: 367.812 hours
+Convergence after 12 Picard iterations.
+
+Time step 1327: 367.972 hours
+Convergence after 8 Picard iterations.
+
+Time step 1328: 368.131 hours
+Convergence after 2 Picard iterations.
+
+Time step 1329: 368.289 hours
+Convergence after 10 Picard iterations.
+
+Time step 1330: 368.789 hours
+Convergence after 3 Picard iterations.
+
+Time step 1331: 369.289 hours
+Convergence after 12 Picard iterations.
+
+Time step 1332: 369.789 hours
+Convergence after 10 Picard iterations.
+
+Time step 1333: 370.289 hours
+Convergence after 12 Picard iterations.
+
+Time step 1334: 370.789 hours
+Convergence after 11 Picard iterations.
+
+Time step 1335: 371.289 hours
+Convergence after 3 Picard iterations.
+
+Time step 1336: 371.789 hours
+Convergence after 11 Picard iterations.
+
+Time step 1337: 372.289 hours
+Convergence after 10 Picard iterations.
+
+Time step 1338: 372.789 hours
+Convergence after 3 Picard iterations.
+
+Time step 1339: 373.289 hours
+Convergence after 12 Picard iterations.
+
+Time step 1340: 373.789 hours
+Convergence after 9 Picard iterations.
+
+Time step 1341: 374.289 hours
+Convergence after 8 Picard iterations.
+
+Time step 1342: 374.789 hours
+Convergence after 8 Picard iterations.
+
+Time step 1343: 375.289 hours
+Convergence after 10 Picard iterations.
+
+Time step 1344: 375.789 hours
+Convergence after 11 Picard iterations.
+
+Time step 1345: 376.289 hours
+Convergence after 12 Picard iterations.
+
+Time step 1346: 376.789 hours
+Convergence after 11 Picard iterations.
+
+Time step 1347: 377.289 hours
+Convergence after 10 Picard iterations.
+
+Time step 1348: 377.789 hours
+Convergence after 10 Picard iterations.
+
+Time step 1349: 378.289 hours
+Convergence after 10 Picard iterations.
+
+Time step 1350: 378.789 hours
+Convergence after 11 Picard iterations.
+
+Time step 1351: 379.289 hours
+Convergence after 13 Picard iterations.
+
+Time step 1352: 379.789 hours
+Convergence after 10 Picard iterations.
+
+Time step 1353: 380.289 hours
+Convergence after 9 Picard iterations.
+
+Time step 1354: 380.789 hours
+Convergence after 12 Picard iterations.
+
+Time step 1355: 381.289 hours
+Convergence after 3 Picard iterations.
+
+Time step 1356: 381.789 hours
+Convergence after 11 Picard iterations.
+
+Time step 1357: 382.289 hours
+Convergence after 10 Picard iterations.
+
+Time step 1358: 382.767 hours
+Convergence after 12 Picard iterations.
+
+Time step 1359: 383.239 hours
+Convergence after 10 Picard iterations.
+
+Time step 1360: 383.705 hours
+Convergence after 11 Picard iterations.
+
+Time step 1361: 384.167 hours
+Convergence after 3 Picard iterations.
+
+Time step 1362: 384.623 hours
+Convergence after 9 Picard iterations.
+
+Time step 1363: 385.075 hours
+Convergence after 9 Picard iterations.
+
+Time step 1364: 385.523 hours
+Convergence after 3 Picard iterations.
+
+Time step 1365: 385.966 hours
+Convergence after 12 Picard iterations.
+
+Time step 1366: 386.466 hours
+Convergence after 8 Picard iterations.
+
+Time step 1367: 386.966 hours
+Convergence after 11 Picard iterations.
+
+Time step 1368: 387.466 hours
+Convergence after 9 Picard iterations.
+
+Time step 1369: 387.966 hours
+Convergence after 10 Picard iterations.
+
+Time step 1370: 388.466 hours
+Convergence after 8 Picard iterations.
+
+Time step 1371: 388.966 hours
+Convergence after 3 Picard iterations.
+
+Time step 1372: 389.466 hours
+Convergence after 3 Picard iterations.
+
+Time step 1373: 389.966 hours
+Convergence after 10 Picard iterations.
+
+Time step 1374: 390.466 hours
+Convergence after 9 Picard iterations.
+
+Time step 1375: 390.966 hours
+Convergence after 10 Picard iterations.
+
+Time step 1376: 391.466 hours
+Convergence after 10 Picard iterations.
+
+Time step 1377: 391.966 hours
+Convergence after 11 Picard iterations.
+
+Time step 1378: 392.466 hours
+Convergence after 3 Picard iterations.
+
+Time step 1379: 392.966 hours
+Convergence after 11 Picard iterations.
+
+Time step 1380: 393.466 hours
+Convergence after 11 Picard iterations.
+
+Time step 1381: 393.966 hours
+Convergence after 9 Picard iterations.
+
+Time step 1382: 394.466 hours
+Convergence after 10 Picard iterations.
+
+Time step 1383: 394.966 hours
+Convergence after 9 Picard iterations.
+
+Time step 1384: 395.466 hours
+Convergence after 10 Picard iterations.
+
+Time step 1385: 395.966 hours
+Convergence after 12 Picard iterations.
+
+Time step 1386: 396.466 hours
+Convergence after 9 Picard iterations.
+
+Time step 1387: 396.966 hours
+Convergence after 9 Picard iterations.
+
+Time step 1388: 397.466 hours
+Convergence after 10 Picard iterations.
+
+Time step 1389: 397.966 hours
+Convergence after 3 Picard iterations.
+
+Time step 1390: 398.466 hours
+Convergence after 7 Picard iterations.
+
+Time step 1391: 398.966 hours
+Convergence after 11 Picard iterations.
+
+Time step 1392: 399.466 hours
+Convergence after 9 Picard iterations.
+
+Time step 1393: 399.966 hours
+Convergence after 9 Picard iterations.
+
+Time step 1394: 400.466 hours
+Convergence after 8 Picard iterations.
+
+Time step 1395: 400.966 hours
+Convergence after 10 Picard iterations.
+
+Time step 1396: 401.454 hours
+Convergence after 10 Picard iterations.
+
+Time step 1397: 401.937 hours
+Convergence after 9 Picard iterations.
+
+Time step 1398: 402.417 hours
+Convergence after 10 Picard iterations.
+
+Time step 1399: 402.894 hours
+Convergence after 7 Picard iterations.
+
+Time step 1400: 403.367 hours
+Convergence after 10 Picard iterations.
+
+Time step 1401: 403.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1402: 404.367 hours
+Convergence after 11 Picard iterations.
+
+Time step 1403: 404.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1404: 405.367 hours
+Convergence after 12 Picard iterations.
+
+Time step 1405: 405.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1406: 406.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1407: 406.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1408: 407.367 hours
+Convergence after 9 Picard iterations.
+
+Time step 1409: 407.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1410: 408.367 hours
+Convergence after 10 Picard iterations.
+
+Time step 1411: 408.867 hours
+Convergence after 9 Picard iterations.
+
+Time step 1412: 409.367 hours
+Convergence after 9 Picard iterations.
+
+Time step 1413: 409.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1414: 410.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1415: 410.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1416: 411.367 hours
+Convergence after 11 Picard iterations.
+
+Time step 1417: 411.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1418: 412.367 hours
+Convergence after 9 Picard iterations.
+
+Time step 1419: 412.867 hours
+Convergence after 11 Picard iterations.
+
+Time step 1420: 413.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1421: 413.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1422: 414.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1423: 414.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1424: 415.367 hours
+Convergence after 11 Picard iterations.
+
+Time step 1425: 415.867 hours
+Convergence after 11 Picard iterations.
+
+Time step 1426: 416.367 hours
+Convergence after 11 Picard iterations.
+
+Time step 1427: 416.867 hours
+Convergence after 11 Picard iterations.
+
+Time step 1428: 417.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1429: 417.867 hours
+Convergence after 11 Picard iterations.
+
+Time step 1430: 418.367 hours
+Convergence after 10 Picard iterations.
+
+Time step 1431: 418.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1432: 419.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1433: 419.867 hours
+Convergence after 12 Picard iterations.
+
+Time step 1434: 420.367 hours
+Convergence after 10 Picard iterations.
+
+Time step 1435: 420.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1436: 421.367 hours
+Convergence after 10 Picard iterations.
+
+Time step 1437: 421.867 hours
+Convergence after 11 Picard iterations.
+
+Time step 1438: 422.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1439: 422.867 hours
+Convergence after 12 Picard iterations.
+
+Time step 1440: 423.367 hours
+Convergence after 9 Picard iterations.
+
+Time step 1441: 423.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1442: 424.367 hours
+Convergence after 9 Picard iterations.
+
+Time step 1443: 424.867 hours
+Convergence after 3 Picard iterations.
+
+Time step 1444: 425.367 hours
+Convergence after 11 Picard iterations.
+
+Time step 1445: 425.867 hours
+Convergence after 9 Picard iterations.
+
+Time step 1446: 426.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1447: 426.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1448: 427.367 hours
+Convergence after 3 Picard iterations.
+
+Time step 1449: 427.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1450: 428.367 hours
+Convergence after 9 Picard iterations.
+
+Time step 1451: 428.867 hours
+Convergence after 9 Picard iterations.
+
+Time step 1452: 429.367 hours
+Convergence after 11 Picard iterations.
+
+Time step 1453: 429.867 hours
+Convergence after 10 Picard iterations.
+
+Time step 1454: 430.367 hours
+Convergence after 11 Picard iterations.
+
+Time step 1455: 430.867 hours
+Convergence after 9 Picard iterations.
+
+Time step 1456: 431.218 hours
+Convergence after 10 Picard iterations.
+
+Time step 1457: 431.566 hours
+Convergence after 9 Picard iterations.
+
+Time step 1458: 432.066 hours
+Convergence after 9 Picard iterations.
+
+Time step 1459: 432.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1460: 433.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1461: 433.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1462: 434.066 hours
+Convergence after 8 Picard iterations.
+
+Time step 1463: 434.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1464: 435.066 hours
+Convergence after 12 Picard iterations.
+
+Time step 1465: 435.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1466: 436.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1467: 436.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1468: 437.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1469: 437.566 hours
+Convergence after 9 Picard iterations.
+
+Time step 1470: 438.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1471: 438.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1472: 439.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1473: 439.566 hours
+Convergence after 8 Picard iterations.
+
+Time step 1474: 440.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1475: 440.566 hours
+Convergence after 8 Picard iterations.
+
+Time step 1476: 441.066 hours
+Convergence after 8 Picard iterations.
+
+Time step 1477: 441.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1478: 442.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1479: 442.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1480: 443.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1481: 443.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1482: 444.066 hours
+Convergence after 11 Picard iterations.
+
+Time step 1483: 444.566 hours
+Convergence after 8 Picard iterations.
+
+Time step 1484: 445.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1485: 445.566 hours
+Convergence after 9 Picard iterations.
+
+Time step 1486: 446.066 hours
+Convergence after 12 Picard iterations.
+
+Time step 1487: 446.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1488: 447.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1489: 447.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1490: 448.066 hours
+Convergence after 13 Picard iterations.
+
+Time step 1491: 448.566 hours
+Convergence after 11 Picard iterations.
+
+Time step 1492: 449.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1493: 449.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1494: 450.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1495: 450.566 hours
+Convergence after 7 Picard iterations.
+
+Time step 1496: 451.066 hours
+Convergence after 12 Picard iterations.
+
+Time step 1497: 451.566 hours
+Convergence after 9 Picard iterations.
+
+Time step 1498: 452.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1499: 452.566 hours
+Convergence after 11 Picard iterations.
+
+Time step 1500: 453.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1501: 453.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1502: 454.066 hours
+Convergence after 11 Picard iterations.
+
+Time step 1503: 454.566 hours
+Convergence after 11 Picard iterations.
+
+Time step 1504: 455.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1505: 455.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1506: 456.066 hours
+Convergence after 11 Picard iterations.
+
+Time step 1507: 456.566 hours
+Convergence after 9 Picard iterations.
+
+Time step 1508: 457.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1509: 457.566 hours
+Convergence after 7 Picard iterations.
+
+Time step 1510: 458.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1511: 458.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1512: 459.066 hours
+Convergence after 9 Picard iterations.
+
+Time step 1513: 459.566 hours
+Convergence after 11 Picard iterations.
+
+Time step 1514: 460.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1515: 460.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1516: 461.066 hours
+Convergence after 9 Picard iterations.
+
+Time step 1517: 461.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1518: 462.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1519: 462.566 hours
+Convergence after 7 Picard iterations.
+
+Time step 1520: 463.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1521: 463.566 hours
+Convergence after 9 Picard iterations.
+
+Time step 1522: 464.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1523: 464.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1524: 465.066 hours
+Convergence after 9 Picard iterations.
+
+Time step 1525: 465.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1526: 466.066 hours
+Convergence after 13 Picard iterations.
+
+Time step 1527: 466.566 hours
+Convergence after 10 Picard iterations.
+
+Time step 1528: 467.066 hours
+Convergence after 11 Picard iterations.
+
+Time step 1529: 467.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1530: 468.066 hours
+Convergence after 11 Picard iterations.
+
+Time step 1531: 468.566 hours
+Convergence after 3 Picard iterations.
+
+Time step 1532: 469.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1533: 469.566 hours
+Convergence after 12 Picard iterations.
+
+Time step 1534: 470.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1535: 470.566 hours
+Convergence after 8 Picard iterations.
+
+Time step 1536: 471.066 hours
+Convergence after 13 Picard iterations.
+
+Time step 1537: 471.566 hours
+Convergence after 9 Picard iterations.
+
+Time step 1538: 472.066 hours
+Convergence after 3 Picard iterations.
+
+Time step 1539: 472.566 hours
+Convergence after 11 Picard iterations.
+
+Time step 1540: 473.066 hours
+Convergence after 10 Picard iterations.
+
+Time step 1541: 473.54 hours
+Convergence after 7 Picard iterations.
+
+Time step 1542: 474.012 hours
+Convergence after 3 Picard iterations.
+
+Time step 1543: 474.481 hours
+Convergence after 11 Picard iterations.
+
+Time step 1544: 474.951 hours
+Convergence after 11 Picard iterations.
+
+Time step 1545: 475.451 hours
+Convergence after 10 Picard iterations.
+
+Time step 1546: 475.951 hours
+Convergence after 8 Picard iterations.
+
+Time step 1547: 476.451 hours
+Convergence after 3 Picard iterations.
+
+Time step 1548: 476.951 hours
+Convergence after 8 Picard iterations.
+
+Time step 1549: 477.451 hours
+Convergence after 7 Picard iterations.
+
+Time step 1550: 477.951 hours
+Convergence after 11 Picard iterations.
+
+Time step 1551: 478.451 hours
+Convergence after 9 Picard iterations.
+
+Time step 1552: 478.951 hours
+Convergence after 10 Picard iterations.
+
+Time step 1553: 479.451 hours
+Convergence after 9 Picard iterations.
+
+Time step 1554: 479.951 hours
+Convergence after 10 Picard iterations.
+----------------------------------------------------------------
+
+Start time:             1.35374
+Finish time:            4590.55
+Total simulation time:  1.27478 hours
