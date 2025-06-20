@@ -1,6 +1,0 @@
-Stokes flow in FEniCS.
-Running on 1 processor.
-----------------------------------------------------------------
-
-Time step 1: 0 hours
-Convergence after 9 Picard iterations.
