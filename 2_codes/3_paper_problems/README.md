@@ -1,12 +1,4 @@
-# Paper Problems
-Once we have a working source code, we can start with the problems that will become part of the final manuscript.
+In this study, we are gonna to use the accept-reject AMR to simulate the fracture in glaciers
+Here is the algorithm:
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-
+![](attachments/Pasted%20image%2020250620140413.png)

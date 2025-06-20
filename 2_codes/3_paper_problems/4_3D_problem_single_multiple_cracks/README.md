@@ -1,12 +1,10 @@
-# Paper Problems
-Once we have a working source code, we can start with the problems that will become part of the final manuscript.
+In this study, we are gonna to implement some 3D fracture studies:
+- Single crack propagation. Here is the problem setup
+![](attachments/Pasted%20image%2020250620140742.png)
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
 
+-  Two crack interaction: 
+![](attachments/Pasted%20image%2020250620140806.png)
+
+- Multiple crack interactions
+![](attachments/Pasted%20image%2020250620140840.png)
