@@ -1,6 +1,7 @@
 from dolfin import *
 import ufl as ufl
 import numpy as np
+import time
 
 
 class FractureProblem:
@@ -50,10 +51,11 @@ class FractureSolver:
         if self.problem.cdf_adaptive is not None:
             cold.assign(self.problem.cdf_adaptive)
         time_elapsed = self.parameters["time_start"]
+        start = time.time()
         while time_elapsed <= self.parameters["time_total"]:
             min_ms_achieved = False
             ms_step = 0
-            print("-----------------Time Step----------------------")
+            # print("-----------------Time Step----------------------")
             # START MULTI-STAGGERED ITERATIONS ---------------------------------
             while not min_ms_achieved:
                 ms_step += 1
@@ -69,10 +71,10 @@ class FractureSolver:
                 err_u = sqrt(assemble((unew - uold) ** 2 * dx))
                 err_phi = sqrt(assemble((pnew - pold) ** 2 * dx))
                 ms_err = max(err_u, err_phi)
-                print(
-                    "err - u - {0:5.3e} -- err - phi - {1:5.3e}".format(
-                        err_u, err_phi)
-                )
+                # print(
+                #     "err - u - {0:5.3e} -- err - phi - {1:5.3e}".format(
+                #         err_u, err_phi)
+                # )
                 uold.assign(unew)
                 pold.assign(pnew)
                 cold.assign(cnew)
@@ -88,5 +90,14 @@ class FractureSolver:
                 xdmf_file.write(pnew, time_elapsed)
                 xdmf_file.write(unew, time_elapsed)
                 # xdmf_file.write(stress, time_elapsed)
+
+            print(
+                "step: {0:5}, dof: {1:9.0f}, hmin: {2:5.2f} time: {3:6.0f}".format(
+                    time_elapsed,
+                    mesh.num_vertices()*3,
+                    mesh.hmin(),
+                    time.time() - start,
+                )
+            )
 
             time_elapsed += self.parameters["delta_t"]
