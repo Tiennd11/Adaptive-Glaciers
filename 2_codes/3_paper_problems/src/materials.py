@@ -63,7 +63,7 @@ class LinearElasticBase(ABC):
         return x_plus, x_minus
 
     @abstractmethod
-    def get_principal_strain(self, u):
+    def principal_strain(self, u):
         """
         Return the principal strain tensor of the displacement field `u`.
         The result is a 2x2 or 3x3 tensor depending on the dimension.
@@ -71,7 +71,7 @@ class LinearElasticBase(ABC):
         pass
 
     @abstractmethod
-    def get_principal_stress(self, u):
+    def principal_stress(self, u):
         """
         Return the principal stress tensor of the displacement field `u`.
         The result is a 2x2 or 3x3 tensor depending on the dimension.
@@ -79,7 +79,7 @@ class LinearElasticBase(ABC):
         pass
 
     @abstractmethod
-    def get_crack_driving_force(self, u):
+    def crack_driving_force(self, u):
         """
         Return the crack driving force (CDF) for the displacement field `u`.
         The result is a scalar field.
@@ -100,7 +100,7 @@ class LinearElastic2D(LinearElasticBase):
         if self.plane_stress:
             self.lmbda = self.E0 * self.nu / (1 - self.nu ** 2)
 
-    def get_eigenstate(self, t):
+    def eigenstate(self, t):
         eig1 = 0.5 * (tr(t) + safeSqrt(tr(t) * tr(t) - 4 * det(t)))
         eig2 = 0.5 * (tr(t) - safeSqrt(tr(t) * tr(t) - 4 * det(t)))
         return as_tensor([[eig1, 0], [0, eig2]])
@@ -114,14 +114,14 @@ class LinearElastic2D(LinearElasticBase):
             fT += [self.applyElementwise(f, T[i])]
         return as_tensor(fT)
 
-    def get_principal_strain(self, u):
-        return self.get_eigenstate(self.strain(u))
+    def principal_strain(self, u):
+        return self.eigenstate(self.strain(u))
 
-    def get_principal_stress(self, u):
-        return self.get_eigenstate(self.stress(u))
+    def principal_stress(self, u):
+        return self.eigenstate(self.stress(u))
 
-    def get_crack_driving_force(self, u):
-        stress_plus, _ = self.split_plus_minus(self.get_principal_stress(u))
+    def crack_driving_force(self, u):
+        stress_plus, _ = self.split_plus_minus(self.principal_stress(u))
         cdf_expr = self.ci * (
             (stress_plus[0, 0] / self.critical_stress) ** 2
             + (stress_plus[1, 1] / self.critical_stress) ** 2
@@ -137,7 +137,7 @@ class LinearElastic3D(LinearElasticBase):
     """3-D concrete class (plane-stress flag is ignored)."""
     _dim = 3
 
-    def get_eigenstate(self, A):
+    def eigenstate(self, A):
         if ufl.shape(A) != (3, 3):
             raise RuntimeError(
                 f"Tensor A of shape {ufl.shape(A)} != (3, 3) is not supported!")
@@ -176,14 +176,14 @@ class LinearElastic3D(LinearElasticBase):
             fT += [self.applyElementwise(f, T[i, i])]
         return as_tensor([[fT[0], 0, 0], [0, fT[1], 0], [0, 0, fT[2]]])
     
-    def get_principal_strain(self, u):
-        return self.get_eigenstate(self.strain(u))
+    def principal_strain(self, u):
+        return self.eigenstate(self.strain(u))
 
-    def get_principal_stress(self, u):
-        return self.get_eigenstate(self.stress(u))
+    def principal_stress(self, u):
+        return self.eigenstate(self.stress(u))
     
-    def get_crack_driving_force(self, disp):
-        stress_plus, stress_minus =  self.split_plus_minus(self.get_eigenstate(self.stress(disp)))
+    def crack_driving_force(self, disp):
+        stress_plus, stress_minus =  self.split_plus_minus(self.eigenstate(self.stress(disp)))
         energy_expr = self.ci * (
             (stress_plus[0, 0] / self.critical_stress) ** 2 + (stress_plus[1, 1] / self.critical_stress) ** 2 + (stress_plus[2, 2] / self.critical_stress) ** 2 - 1
         )
