@@ -43,7 +43,7 @@ class MaterialModel:
         )
         cdf_expr = ufl.Max(cdf_expr, 0)
         # Apply the threshold condition
-        cdf_expr = ufl.conditional(ufl.le(cdf_expr, 8), 0, cdf_expr)
+        # cdf_expr = ufl.conditional(ufl.le(cdf_expr, 8), 0, cdf_expr)
 
         return cdf_expr
 
