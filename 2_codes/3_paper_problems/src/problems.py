@@ -62,7 +62,7 @@ class FractureSolver:
                 self.disp_solver.solve()
                 cnew.assign(
                     project(
-                        ufl.Max(self.mat.get_crack_driving_force(unew), cold), FDG0)
+                        ufl.Max(self.mat.crack_driving_force(unew), cold), FDG0)
                 )
                 self.phase_solver.solve()
                 # Clip the damage solution to 0-1 ------------------------------------------

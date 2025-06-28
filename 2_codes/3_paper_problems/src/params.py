@@ -21,6 +21,9 @@ class Params:
     sigma_c_ice: float = 4 * 0.1185e6
     ci: float = 1
 
+    # Fracture parameters
+    l: float = 0.625  # Length scale for fracture propagation, in meters
+
 
 
     # Units metadata
@@ -36,7 +39,8 @@ class Params:
         "nu_ice": "-",
         "rho_i_ice": "N/m³",
         "sigma_c_ice": "Pa",
-        "ci": "-"
+        "ci": "-",
+        "l": "m",
     }
 
     def print_table(self, tablefmt: str = "github"):
