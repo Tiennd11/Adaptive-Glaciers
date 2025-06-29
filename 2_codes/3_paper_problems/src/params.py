@@ -14,11 +14,11 @@ class Params:
 
     # Physical constants
     g: float = 9.81
-    rho_sea: float = 1020 * 9.81
+    rho_sea: float = 1020 
     E0_ice: float = 9500e6
     nu_ice: float = 0.35
-    rho_i_ice: float = 917 * 9.81
-    sigma_c_ice: float = 4 * 0.1185e6
+    rho_i_ice: float = 917 
+    sigma_c_ice: float =  0.1185e6
     ci: float = 1
 
     # Fracture parameters
